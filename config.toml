@@ -6,6 +6,8 @@ theme = 'mainroad'
 assetDir = "assets"
 comments = true
 publishDir = "docs"
+disqusShortname = "australiapl" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "UA-629893-48" # Enable Google Analytics by entering your tracking id
 
 [taxonomies]
 category = 'categories'
@@ -78,6 +80,12 @@ weight = 2
 identifier = 'ciekawostki'
 name = 'Ciekawostki'
 url = '/categories/ciekawostki'
+weight = 8
+
+[[menu.main]]
+identifier = 'porady-praktyczne'
+name = 'Porady praktyczne'
+url = '/categories/porady-praktyczne/'
 weight = 8
 
 [[menu.main]]
