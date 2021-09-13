@@ -1,0 +1,10 @@
+body {
+	background: url('/img/wrapper-bg.png') no-repeat top fixed;
+}
+.header  {
+	background: rgba(255, 255, 255, 0.23)
+}
+
+.wrapper {
+	background: rgba(255, 255, 255, 1)
+}
