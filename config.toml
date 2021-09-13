@@ -1,0 +1,93 @@
+baseURL = '/'
+languageCode = 'pl-pl'
+defaultContentLanguage = 'pl'
+title = 'Australia'
+theme = 'mainroad'
+assetDir = "assets"
+comments = true
+publishDir = "docs"
+
+[taxonomies]
+category = 'categories'
+tags = 'tags'
+
+[Params]
+subtitle = "Zacznij podróż życia już dziś" # Deprecated in favor of .Site.Params.logo.subtitle
+description = "John Doe's Personal blog about everything" # Site description. Used in meta description
+copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+opengraph = true # Enable OpenGraph if true
+schema = true # Enable Schema
+twitter_cards = false # Enable Twitter Cards if true
+readmore = true # Show "Read more" button in list if true
+authorbox = false # Show authorbox at bottom of pages if true
+toc = true # Enable Table of Contents
+pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+post_meta = ["author", "date", "categories"] # Order of post meta information
+mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+dateformat = "2006-01-02" # Change the format of dates
+mathjax = false # Enable MathJax
+mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
+customCSS = ["css/custom.css"] # Include custom CSS files
+#customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.thumbnail]
+visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+home = "left" # Configure layout for home page
+list = "left"  # Configure layout for list pages
+single = "left" # Configure layout for single pages
+# Enable widgets in given order
+widgets = ["search", "categories", "social"]
+# alternatively "ddg-search" can be used, to search via DuckDuckGo
+# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+recent_num = 5 # Set the number of articles in the "Recent articles" widget
+categories_counter = false # Enable counter for each category in "Categories" widget
+tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Author] # Used in authorbox
+name = "slav"
+bio = "Slawomir Jasinski"
+avatar = "img/avatar.png"
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+[[related.indices]]
+name = 'tags'
+weight = 100
+[[related.indices]]
+name = 'date'
+weight = 10
+
+
+[menu]
+[[menu.main]]
+identifier = 'o-nas'
+name = 'O nas'
+url = '/o-nas'
+weight = 2
+
+[[menu.main]]
+identifier = 'ciekawostki'
+name = 'Ciekawostki'
+url = '/categories/ciekawostki'
+weight = 8
+
+[[menu.main]]
+identifier = 'galerie'
+name = 'Galerie'
+url = '/categories/galerie'
+weight = 8
+
+[[menu.main]]
+identifier = 'kamery-on-line'
+name = 'Kamery na żywo'
+url = '/kamery-on-line'
+weight = 10
