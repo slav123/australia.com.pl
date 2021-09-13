@@ -1,0 +1,13 @@
+body {
+	background: #211a10 url('/img/wrapper-bg.png') no-repeat top fixed;
+}
+.header  {
+	background: transparent;
+}
+
+.wrapper {
+	background: rgba(255, 255, 255, 1)
+}
+.logo__title {
+	color: #ffffff;
+}
