@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://www.australia.com.pl/'
 languageCode = 'pl-pl'
 defaultContentLanguage = 'pl'
 title = 'Australia'

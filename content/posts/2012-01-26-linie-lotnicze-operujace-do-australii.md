@@ -30,7 +30,7 @@ To największe linie lotnicze Korei płd. Siedziba znajduje się w Seulu. Linie 
 
 ## Air China
 
-Chińskie narodowe linie lotnicze z siedzibą w Pekinie. Głównym węzłem tego przewoźnika jest Port Lotniczy Pekin. Air China obsługuje większość lotnisk na terenie Chin oraz posiada połączenia  z całym światem oprócz Afryki. Trasa do Australii obejmuje przelot przez jeden z portów europejskich oraz Shanghai lub Pekin.Linie posiadają największą chińską flotę, w skład której wchodzą: Airbus A319-100, A320-200, A321-200, A330-200, A340-300, Boeing 737-300, 737-700, 737-800, 747-400, 747-400M, 757-200, 767-300, 767-300ER, 777-200  
+Chińskie narodowe linie lotnicze z siedzibą w Pekinie. Głównym węzłem tego przewoźnika jest Port Lotniczy Pekin. Air China obsługuje większość lotnisk na terenie Chin oraz posiada połączenia  z całym światem oprócz Afryki. Trasa do Australii obejmuje przelot przez jeden z portów europejskich oraz Shanghai lub Pekin. Linie posiadają największą chińską flotę, w skład której wchodzą: Airbus A319-100, A320-200, A321-200, A330-200, A340-300, Boeing 737-300, 737-700, 737-800, 747-400, 747-400M, 757-200, 767-300, 767-300ER, 777-200  
 Linie należą do sojuszu Star Alliance.
 
 ## China Airlines
@@ -49,22 +49,22 @@ Katarskie narodowe linie lotnicze, z siedzibą w Ad-Dauha. Zostały założone w
 
 ## Singapore Airlines
 
-Singapurskie narodowe linie lotnicze z głównym węzłem w porcie Changi. Zostały założone w 1947 roku a od 1989 roku są właścicielem lokalnej linii lotniczej SilkAir. Posiadają połączenia ze wszystkimi kontynentami oprócz Ameryki Południowej. Oferują przeloty do ok.140 miast w 40 państwach. Przelot do Australii odbywa się przez jeden z portów europejskich oraz Sungapur.  
+Singapurskie narodowe linie lotnicze z głównym węzłem w porcie Changi. Zostały założone w 1947 roku a od 1989 roku są właścicielem lokalnej linii lotniczej SilkAir. Posiadają połączenia ze wszystkimi kontynentami oprócz Ameryki Południowej. Oferują przeloty do ok.140 miast w 40 państwach. Przelot do Australii odbywa się przez jeden z portów europejskich oraz Singapur.  
 Przewoźnik jest członkiem sojuszu Star Alliance.
 
 ## British Airways
 
-British Airways to największe brytyjskie i europejskie towarzystwo lotnicze. Należy również do największych towarzystw lotniczych świata. Oferuje loty do portów lotniczych w Europie, Ameryce Północnej, Ameryce Południowej, Karaibów, Bliskiego Wschodu, Azji Południowo-Wschodnej oraz Australii. Przelot do Australii odbywa się przez Londyn z międzylądowaniem w Singapurze (bez koniecznośći wysiadania z samolotu). Flota przewoźnika obejmuje maszyny typu: Airbus A319, A320, A321, Boeing 737-400, 757-200, 767-300,777-200,747-400.  
+British Airways to największe brytyjskie i europejskie towarzystwo lotnicze. Należy również do największych towarzystw lotniczych świata. Oferuje loty do portów lotniczych w Europie, Ameryce Północnej, Ameryce Południowej, Karaibów, Bliskiego Wschodu, Azji Południowo-Wschodnej oraz Australii. Przelot do Australii odbywa się przez Londyn z międzylądowaniem w Singapurze (bez konieczności wysiadania z samolotu). Flota przewoźnika obejmuje maszyny typu: Airbus A319, A320, A321, Boeing 737-400, 757-200, 767-300,777-200,747-400.  
 Od 1998 roku polski oddział British Airways jest oficjalnym przedstawicielem linii Qantas w Polsce.  
 British Airways należy do sojuszu lotniczego OneWorld.
 
 ## Qantas Airways
 
 To największy australijski przewoźnik lotniczy, założony w 1920 roku. Nazwa linii to akronim od  Queensland and Northern Territory Aerial Services.  Główna baza Qantas znajduje się w Sydney przy międzynarodowym porcie lotniczym Port lotniczy Sydney-Kingsford Smith.  
-Do Australii przewoźnik oferuje przelot przez Londyn lub Frankfurt oraz Singapur (bez koniecznośći wysiadania z samolotu)
+Do Australii przewoźnik oferuje przelot przez Londyn lub Frankfurt oraz Singapur (bez konieczności wysiadania z samolotu)
 
 Większość tych linii oferuje połączenia praktycznie ze wszystkich lotnisk krajowych w Polsce w porozumieniu z PLL LOT lub Lufthansą, wyloty są możliwe m.in. z: Warszawa, Poznań, Gdańsk, Katowice, Kraków, Wrocław, Rzeszów.
 
 Żadna z tych linii oprócz British Airways nie operuje do Polski, ale wszystkie mają umowy z LOT-em lub Lufthansą, dzięki czemu cena biletu obejmuje dolot do któregoś z portów europejskich, skąd rozpoczyna się dalsza podróż do Azji.
 
- [1]: https://www.australia.com.pl/przelot-do-australii/ "Przelot do Australii"
+ [1]: /przelot-do-australii/ "Przelot do Australii"
