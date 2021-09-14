@@ -33,9 +33,9 @@ Podążajac za encyklopedycznymi danymi:
   * Premier Rządu **&#8211;** [Julia Gillard][20]
   * Język urzędowy &#8211; angielski
   * Hymn &#8211; &#8222;Advance Australia Fair&#8221;
-  * Powierzchnia &#8211; <del>7 682 300</del> **7 692 024 **km² (wg. <a href="http://www.ga.gov.au/education/geoscience-basics/dimensions/area-of-australia-states-and-territories.html" target="_blank">Geoscience Australia</a>)
+  * Powierzchnia &#8211; <del>7 682 300</del> **7 692 024 **km² (wg. [Geoscience Australia](http://www.ga.gov.au/education/geoscience-basics/dimensions/area-of-australia-states-and-territories.html))
   * Podział administracyjny &#8211; 6 stanów i 2 terytoria federalne posiadające autonomię (Wiktoria, Nowa Południowa Walia, Queensland, Terytorium Północne, Australia Zachodnia, Australia Południowa)
-  * Liczba ludności &#8211; 22,849,200 (dane z czerwca 2012) &#8211; źródło (<a href="http://www.abs.gov.au/ausstats/abs@.nsf/0/1647509ef7e25faaca2568a900154b63?OpenDocument" target="_blank">Australian Bureau of Statics</a>)
+  * Liczba ludności &#8211; 22,849,200 (dane z czerwca 2012) &#8211; źródło ([Australian Bureau of Statics](http://www.abs.gov.au/ausstats/abs@.nsf/0/1647509ef7e25faaca2568a900154b63?OpenDocument))
   * Gęstość zaludnienia- ok 3 os/km2
   * Jednostka monetarna &#8211; dolar australijski AUD
   * Strefa czasowa &#8211; UTC od +8 do +11 – zimą, UTC od +9 do +12 – latem

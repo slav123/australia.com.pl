@@ -15,7 +15,7 @@ tags:
 ---
 Ośmiornice niebiesko-prążkowane (blue-ringed) &#8211; nie wiem jak przetłumaczyć ich nazwę, to jedne z najbardziej toksycznych zwierząt morskich. Żyją głównie w wodach Pacyfiku od Japonii po Australię (głównie na południu Nowej Południowej Walii i Południowej Australii).
 
-Pomimo swojego niewielkiego rozmiaru (12-20cm) są zabójczo niebezpieczne dla ludzi. Produkują zabójczą <a href="http://pl.wikipedia.org/wiki/Tetrodotoksyna" target="_blank">tetrodotoksynę</a>, która w połączeniu z innymi związkami tworzy koktajl mocniejszy 10 tys razy od cyjanku. Pierwsze objawy to kompletny paraliż, potem ogólne osłabienie a finalnie ofiara umiera z oduszenia. Na tą truciznę nie ma odtrutki!
+Pomimo swojego niewielkiego rozmiaru (12-20cm) są zabójczo niebezpieczne dla ludzi. Produkują zabójczą [tetrodotoksynę](http://pl.wikipedia.org/wiki/Tetrodotoksyna), która w połączeniu z innymi związkami tworzy koktajl mocniejszy 10 tys razy od cyjanku. Pierwsze objawy to kompletny paraliż, potem ogólne osłabienie a finalnie ofiara umiera z oduszenia. Na tą truciznę nie ma odtrutki!
 
 <!--more-->
 

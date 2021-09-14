@@ -12,7 +12,7 @@ categories:
 tags:
   - fauna
 ---
-Mieszkałem w Australii ponad 5 lat, niejedno już widziałem. Co nie zmienia faktu, że to piękne miejsce potrafi zaskoczyć. Akcja tej opowieści toczy się w 4 gwiazdkowym hotelu zlokalizowanym w  North Sydney. Godzina 23, temperatura około 24 st &#8211; końcówka stycznia. Na ścianie pojawia się <a href="https://en.wikipedia.org/wiki/Australian_cockroach" target="_blank">karaluch Australijski</a>, który pomimo swojskiej nazwy nie zamieszkuje jedynie Australii ale wszystkie ciepłe i przyjemne kraje jak US, czy Afryka. Karaluchy te cechuje całkiem pokaźny rozmiar (zbliżony do pudełka od zapałek), wysoka mobilność oraz możliwość latania i&#8230; generalnie są dosyć głośne. Nie jest to istota, która się skrada &#8211; słychać ją jak się porusza.
+Mieszkałem w Australii ponad 5 lat, niejedno już widziałem. Co nie zmienia faktu, że to piękne miejsce potrafi zaskoczyć. Akcja tej opowieści toczy się w 4 gwiazdkowym hotelu zlokalizowanym w  North Sydney. Godzina 23, temperatura około 24 st &#8211; końcówka stycznia. Na ścianie pojawia się [karaluch Australijski](https://en.wikipedia.org/wiki/Australian_cockroach), który pomimo swojskiej nazwy nie zamieszkuje jedynie Australii ale wszystkie ciepłe i przyjemne kraje jak US, czy Afryka. Karaluchy te cechuje całkiem pokaźny rozmiar (zbliżony do pudełka od zapałek), wysoka mobilność oraz możliwość latania i&#8230; generalnie są dosyć głośne. Nie jest to istota, która się skrada &#8211; słychać ją jak się porusza.
 
 <!--more-->
 

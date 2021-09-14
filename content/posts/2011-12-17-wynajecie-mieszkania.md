@@ -11,7 +11,7 @@ categories:
   - Porady praktyczne
 
 ---
-Wbrew pozorom nie jest to taka prosta sprawa. O tyle o ile znalezienie hotelu, czy miejsca na krótki pobyt jest bardzo prostym zadaniem &#8211; oczywiście trzeba liczyć się z kosztami rzędu od minimum $50 dolarów za noc, o tyle na dłuższy pobyt warto pomyśleć o jakimś tańszym zakwaterowaniu. Jakie mamy opcje &#8211; oczywiście garść tanich hoteli, albo bardzo popularne <a href="http://goo.gl/tQdHk" target="_blank">Share Accommodation</a> &#8211; czyli dzielone lokalizacje w postaci mieszkań i pokojów gdzie można wynająć pokój na krótki okres.
+Wbrew pozorom nie jest to taka prosta sprawa. O tyle o ile znalezienie hotelu, czy miejsca na krótki pobyt jest bardzo prostym zadaniem &#8211; oczywiście trzeba liczyć się z kosztami rzędu od minimum $50 dolarów za noc, o tyle na dłuższy pobyt warto pomyśleć o jakimś tańszym zakwaterowaniu. Jakie mamy opcje &#8211; oczywiście garść tanich hoteli, albo bardzo popularne [Share Accommodation](http://goo.gl/tQdHk) &#8211; czyli dzielone lokalizacje w postaci mieszkań i pokojów gdzie można wynająć pokój na krótki okres.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Jeżeli planujemy dłuższy pobyt w danej lokalizacji warto pomyśleć o wynaję
 
 > Ciekawostka: system kaucji jest zabezpieczany ustawowo przez rząd australijski. Podczas wynajmowania wypisujemy czek na specjalną instytucję, która przechowuje go tak długo jak długo wynajmujemy mieszkanie. Po zwolnieniu mieszkania odzyskujemy czek z tzw &#8222;bondem&#8221;
 
-Mieszkania wynajmowane są głównie przez specjalne agencje, których jest tutaj zatrzęsienie. Niestety nie wystarczy przyjść do wybranej agencji i zadeklarować chęć wynajęcia mieszkania &#8211; cały proces jest lekko zepsuty i nieprzyjemny szczególnie, że rynek jest dosyć intensywny (szczególnie w Sydney). Cała zabawa polega na wyszukiwaniu ogłoszeń przez poplarne serwisy typu <a href="http://www.domain.com.au/" target="_blank">Domain</a> czy <a href="http://www.realestate.com.au/" target="_blank">Real Estate</a> &#8211; następnie dowiedzenie się kiedy są tzw: &#8222;inspection&#8221;. Zwykle oglądać mieszkanie można raz w tygodniu, w popularnych lokalizacjach potrafi się zjawić na jedno mieszkanie 10-20 oglądających.
+Mieszkania wynajmowane są głównie przez specjalne agencje, których jest tutaj zatrzęsienie. Niestety nie wystarczy przyjść do wybranej agencji i zadeklarować chęć wynajęcia mieszkania &#8211; cały proces jest lekko zepsuty i nieprzyjemny szczególnie, że rynek jest dosyć intensywny (szczególnie w Sydney). Cała zabawa polega na wyszukiwaniu ogłoszeń przez poplarne serwisy typu [Domain](http://www.domain.com.au/) czy [Real Estate](http://www.realestate.com.au/) &#8211; następnie dowiedzenie się kiedy są tzw: &#8222;inspection&#8221;. Zwykle oglądać mieszkanie można raz w tygodniu, w popularnych lokalizacjach potrafi się zjawić na jedno mieszkanie 10-20 oglądających.
 
 Co dalej? Jeżeli udało nam się obejrzeć dane mieszkanie wtedy możemy pobrać formularz zgłoszeniowy od agenta. Co taki formularz zawiera &#8211; mnóstwo ciekawych pól. Musimy m.in. podać swoich znajomych w Australii, miejsce pracy, najlepiej dołączyć historię zamieszkania w Australii czasami również z referencjami od poprzednich wynajmujących. Co jeżeli historii nie mamy? Oczywiście pierwsza myśl która przychodzi do głowy polskiej głowie &#8211; stworzyć, nikt nie będzie sprawdzał&#8230; otóż nic bardziej błędnego. Agencje zwykle dzwonią i weryfikują dane informacje. Szczególnie jeżeli celujemy w popularną lokalizację.
 

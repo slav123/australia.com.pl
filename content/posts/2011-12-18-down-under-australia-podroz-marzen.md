@@ -16,7 +16,7 @@ categories:
 ---
 Już teraz przenieś się w ciepły i magiczny klimat Australii.
 
-Publikacja **<a href="http://www.escapemagazine.pl/369666-down-under-australia" target="_blank">Down Under. Australia &#8211; podróż marzeń</a>** to prawie 400 stron opisów i zdjęć z półrocznej podróży po Australii i Nowej Zelandii.
+Publikacja **[Down Under. Australia &#8211; podróż marzeń](http://www.escapemagazine.pl/369666-down-under-australia)** to prawie 400 stron opisów i zdjęć z półrocznej podróży po Australii i Nowej Zelandii.
 
 <!--more-->
 

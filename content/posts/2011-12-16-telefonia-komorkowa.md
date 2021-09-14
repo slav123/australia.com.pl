@@ -35,7 +35,7 @@ Pierwsze dwie cyfry symbolizują typ usługi, poniższa lista prezentuje najwyż
 
 W przypadku rozmów międzynarodowych zamieniamy pierwsze zero na +61 i tak numer 02 1234 1234 wybierany z Polski powinien mieć postać +61 2 1234 1234 a komórkowy +61 4 1234 1234
 
-Więcej informacji na temat telefonów można znaleźć na <a href="http://en.wikipedia.org/wiki/Telephone_numbers_in_Australia" target="_blank">Wikipedii</a>.
+Więcej informacji na temat telefonów można znaleźć na [Wikipedii](http://en.wikipedia.org/wiki/Telephone_numbers_in_Australia).
 
 > Ciekawostka: w większości przypadków koszt połączenia składa się z dwóch składników, opłaty za połączenie a potem opłaty za minutę. System ten obowiązuje zarówno w przypadku połączeń komórkowych jak i stacjonarnych.
 
