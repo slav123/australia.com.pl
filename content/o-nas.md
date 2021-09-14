@@ -6,7 +6,7 @@ date: 2011-12-15T11:07:59+00:00
 pager: false
 
 ---
-Serwis prowadzony jest przez parę Polaków mieszkających w Sydney od kwietnia 2010. Ciężko powiedzieć czy jest to długo, czy krótko. Faktem jest, że informacje i opinie zawarte w serwisie pochodzą z pierwszej ręki i na podstawie własnych doświadczeń.
+Serwis prowadzony jest przez parę Polaków mieszkających w Sydney od kwietnia 2010 do sierpnia 2015. Ciężko powiedzieć czy jest to długo, czy krótko. Faktem jest, że informacje i opinie zawarte w serwisie pochodzą z pierwszej ręki i na podstawie własnych doświadczeń.
 
 Opinie i komentarze nie są obiektywne i mogą zawierać treści, z którymi czytelnicy nie do końca mogą się zgadzać. Staraliśmy się jednak przekazać informacje prawdziwe i wynikające z faktycznego stanu rzeczy. Na pewno nie stosowaliśmy się do wszystkich zasad ogólnie rozumianej poprawności politycznej, co spowoduje, że w kilku miejscach pojawią się bardzo negatywne opinie na temat historii Australii i Australijczyków.
 

@@ -11,3 +11,6 @@ body {
 .logo__title {
 	color: #ffffff;
 }
+.post__related ul {
+	margin: 0 0 0 20px
+}
