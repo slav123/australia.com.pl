@@ -87,19 +87,19 @@ weight = 2
 [[menu.main]]
 identifier = 'ciekawostki'
 name = 'Ciekawostki'
-url = '/categories/ciekawostki'
+url = '/category/ciekawostki'
 weight = 8
 
 [[menu.main]]
 identifier = 'porady-praktyczne'
 name = 'Porady praktyczne'
-url = '/categories/porady-praktyczne/'
+url = '/category/porady-praktyczne/'
 weight = 8
 
 [[menu.main]]
 identifier = 'galerie'
 name = 'Galerie'
-url = '/categories/galerie'
+url = '/category/galerie'
 weight = 8
 
 [[menu.main]]
