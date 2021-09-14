@@ -1,3 +1,10 @@
+{{ if strings.HasPrefix .Destination "http" }}
+{{ $altText := .PlainText }}
+{{ $imgTitle := .Title }}
+<img src="{{ .Destination }}" alt="{{ $altText }}" {{ with $imgTitle }} title="{{ . }}" {{ end }} {{ with .Title }} title="{{ . }}" {{ end }}/>
+{{ end }}
+
+{{ if strings.HasPrefix .Destination "/" }}
 {{ $myImg := resources.Get .Destination }}
     {{ $altText := .PlainText }}
     {{ $imgTitle := .Title }}
@@ -9,3 +16,4 @@
     {{ else }}
         <p>Image not found {{ $imgTitle }}</p>
     {{ end }}
+{{ end }}
