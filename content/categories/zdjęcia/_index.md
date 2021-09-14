@@ -1,0 +1,4 @@
+---
+title: Zdjęcia
+slug: zdjecia
+---

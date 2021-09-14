@@ -8,13 +8,12 @@ thumbnail: images/uploads/2011/12/subiektywnie_o_australiczykach.jpg
 dsq_thread_id:
   - 532465299
 categories:
- 
   - Subiektywnie
 
 ---
-W zasadzie można być zwolennikiem dwóch znoszących się wzajemnie teorii: pierwszej, że ludzie są wszędzie tacy sami i że wszędzie żyje się podobnie (o ile nie istnieje bariera w postaci języka) i drugiej: każdy kraj jest absolutnie specyficzny. Jak to mówią : &#8222;Co kraj to obyczaj&#8221;.
+W zasadzie można być zwolennikiem dwóch znoszących się wzajemnie teorii: pierwszej, że ludzie są wszędzie tacy sami i że wszędzie żyje się podobnie (o ile nie istnieje bariera w postaci języka) i drugiej: każdy kraj jest absolutnie specyficzny. Jak to mówią: &#8222;Co kraj to obyczaj&#8221;.
 
-Opisując mentalność, kulturę i sposób życia w Australii, nie sposób uniknąć uogolnień. Z całą również pewnością nie da się również uniknąć subiektywnej oceny tego, na co się w Australii napotyka &#8211; za co prawdopodobnie należą się Szanownemu Czytelnikowi przeprosiny z góry.
+Opisując mentalność, kulturę i sposób życia w Australii, nie sposób uniknąć uogólnień. Z całą również pewnością nie da się również uniknąć subiektywnej oceny tego, na co się w Australii napotyka &#8211; za co prawdopodobnie należą się Szanownemu Czytelnikowi przeprosiny z góry.
 
 <!--more-->
 
@@ -30,7 +29,7 @@ Funkcjonują tu jednak niepisane zasady i zachowania, których przeciętny Polak
 
 Jak wiadomo kraje, w których mówi się po angielsku swoje podstawowe relacje międzyludzkie sprowadzają do pytania o samopoczucie rozmówcy, na które ów ma obowiązek odpowiedzieć i to zawsze w taki sam sposób. Że ma się świetnie, nienajgorzej, dobrze &#8211; nigdy, że boli go głowa, miał słaby dzień, albo, że stał dwie godziny w korku.
 
-Na przekazanie takich informacji rozmówca może sobie pozwolić ewentualnie poźniej, kiedy konwersacja się już zawiąże, i kiedy będzie miał przynajmniej niejasne przeczucie, że drugą stronę w ogóle to interesuje. Generalnie można mieć wrażenie, że pytanie o samopoczucie jak również odpowiedź są kompletnie nieistotne, a jednocześnie święte. Bo czy tak naprawde kogokolwiek interesuje dzień i jego jakość jakiegoś człowieka, którego się widzi pierwszy raz w życiu? Albo drugi?
+Na przekazanie takich informacji rozmówca może sobie pozwolić ewentualnie poźniej, kiedy konwersacja się już zawiąże, i kiedy będzie miał przynajmniej niejasne przeczucie, że drugą stronę w ogóle to interesuje. Generalnie można mieć wrażenie, że pytanie o samopoczucie jak również odpowiedź są kompletnie nieistotne, a jednocześnie święte. Bo czy tak naprawdę kogokolwiek interesuje dzień i jego jakość jakiegoś człowieka, którego się widzi pierwszy raz w życiu? Albo drugi?
 
 Problem jest taki, że jeśli się w tym nie uczestniczy, albo wychodzi się z założenia, że jeśli się nie ma nic ciekawego do powiedzenia &#8211; to się po prostu nie mówi nic &#8211; to automatycznie uchodzi się za gbura, osobę aspołeczną i niekulturalną. Zatem to pierwsza lekcja, którą trzeba odrobić i się jej nauczyć.
 

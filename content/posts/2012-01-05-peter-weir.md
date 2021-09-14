@@ -16,19 +16,19 @@ tags:
 ---
 Reżyser tak znanych i kasowych filmów, jak &#8222;Stowarzyszenie umarłych poetów&#8221; czy &#8222;The Truman Show&#8221;. Obydwa te filmy są amerykańskie i z bardzo znaną obsadą.<!--more-->
 
-Jest jeszcze parę innych: &#8222;Pan i władca na końcu świata&#8221;, &#8222;Zielona karta&#8221;, czy &#8222;Bez lęku&#8221;, albo &#8222;The Way Back&#8221; (nie wiem, jakie jest polskie tłumaczenie tego tytułu). &#8222;Pan i władca&#8230;&#8221; &#8211; słabiutki, aż wstyd. &#8222;The way back&#8221;- oszałamiający dla Polaka. Dziekujemy Ci Peter!
+Jest jeszcze parę innych: &#8222;Pan i władca na końcu świata&#8221;, &#8222;Zielona karta&#8221;, czy &#8222;Bez lęku&#8221;, albo &#8222;The Way Back&#8221; (nie wiem, jakie jest polskie tłumaczenie tego tytułu). &#8222;Pan i władca&#8230;&#8221; &#8211; słabiutki, aż wstyd. &#8222;The way back&#8221;- oszałamiający dla Polaka. Dziękujemy Ci Peter!
 
 Jest trochę nierówny. Raz mu się uda, a raz nie. Raz troszkę przesłodzony, taki, żeby łzy powyciskać z oczu gospodyni domowej, a raz naprawdę mocny i &#8222;dający w ryj&#8221;. Jakby nie do końca mógł się zdecydować na to, kto go będzie oglądał, albo czy zarobić, czy nie&#8230;
 
-Jakieby to filmy nie były, zawsze można znaleźć w nich wspólny, magnetyczny mianownik: taka zawartość Weira w Weirze. Czasami jest go mniej, czasami więcej, ale zawsze do odczytania.
+Jakie by to filmy nie były, zawsze można znaleźć w nich wspólny, magnetyczny mianownik: taka zawartość Weira w Weirze. Czasami jest go mniej, czasami więcej, ale zawsze do odczytania.
 
-Weir nie robi i nie robił nigdy kina filozoficznego. A szkoda. Pozwalając sobie na osobistą dygresję kina filozoficznego już nie ma. Było w latach 60-tych, 70-tych. Teraz jeśli mozna się czegokolwiek spodziewać to dość dobrego ujęcia psychologicznego. Weir jest niemniej intelektualistą i oprócz ładnej historii daje nam jeszcze parę tematów do przemysleń. Jego obrazy są takie, że zostają na dłużej i nabierają jakiegoś znaczenia.
+Weir nie robi i nie robił nigdy kina filozoficznego. A szkoda. Pozwalając sobie na osobistą dygresję kina - filozoficznego już nie ma. Było w latach 60-tych, 70-tych. Teraz jeśli można się czegokolwiek spodziewać to dość dobrego ujęcia psychologicznego. Weir jest niemniej intelektualistą i oprócz ładnej historii daje nam jeszcze parę tematów do przemyśleń. Jego obrazy są takie, że zostają na dłużej i nabierają jakiegoś znaczenia.
 
-To, co urzekające w jego filmach to człowiek osadzony w realiach, które wydają się być nie do opanowania i tak silne, że zmiana ich nie jest możliwa, jednak powodowany wręcz nadludzką siłą jest w stanie przeciwstawić się im i zmienić kontekst życia na większą lub mniejszą skalę, w taki sposób że jakość egzystencji zmienia się widocznie. Człowiek ten jest z reguły dość zwyczajną jednostką, dość pospolitą, niewyróżniającą sie szczegolnie, taką, o której wie się bardzo niewiele, jakby to, kim była wcześniej nie miało zbyt dużego znaczenia.
+To, co urzekające w jego filmach to człowiek osadzony w realiach, które wydają się być nie do opanowania i tak silne, że zmiana ich nie jest możliwa, jednak powodowany wręcz nadludzką siłą jest w stanie przeciwstawić się im i zmienić kontekst życia na większą lub mniejszą skalę, w taki sposób, że jakość egzystencji zmienia się widocznie. Człowiek ten jest z reguły dość zwyczajną jednostką, dość pospolitą, niewyróżniającą się szczególnie, taką, o której wie się bardzo niewiele, jakby to, kim była wcześniej nie miało zbyt dużego znaczenia.
 
 To istniejący kontekst zmienia tego człowieka tak, że ten zaczyna działać. Staje się silny, wręcz chorobliwie, wręcz obsesyjnie.
 
-Najbardziej śmiertenymi, niebezpiecznymi dla tego człowieką są żywioły, na które nie ma wpływu, których z pozoru nie da się okiełznać&#8230;
+Najbardziej śmiertelnymi, niebezpiecznymi dla tego człowieka są żywioły, na które nie ma wpływu, których z pozoru nie da się okiełznać&#8230;
 
 &#8222;Bez lęku&#8221; &#8211; zaprzeczenie śmierci. Z jednej strony, bo oderwanie od miłości, uczuć i rodziny jet początkiem umierania. Martwy nie może umrzeć powtórnie. Nie musi się bać śmierci. Ludzie w samolocie miotani podczas katastrofy jak nic nieznaczące marionetki. Jak kukiełki, które nie są w stanie nic zrobić (oszałamiająco nakręcone sceny) &#8230; w tym wszystkim spokojny głos głównego bohatera ratujący życie. Wyprowadzający ludzi z wraku , jak pasterz&#8230;  jednocześnie trochę jak z obrazu Breugela &#8222;Dusze idące do nieba&#8221; &#8211; pasażerowie idą do w kierunku światła i to jest ich wyzwolenie z objęć smierci i z lęku jednocześnie&#8230;
 

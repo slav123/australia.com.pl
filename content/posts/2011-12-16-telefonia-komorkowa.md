@@ -16,16 +16,16 @@ tags:
 ---
 Najważniejszą informacją jest zapewne **numer kierunkowy do Australii** &#8211; +61.
 
-Dalej robi się odrobinę ciekawiej. Australia jest podzielona geograficznie na cztery główne regiony, które pokrywają więcej niż jeden stan / terytorium. Standard który obowiązuje w Australii to FFN (Full National Number), który posiada 10 cyfr &#8211; każdy numer zaczyna się od cyfry 0.
+Dalej robi się odrobinę ciekawiej. Australia jest podzielona geograficznie na cztery główne regiony, które pokrywają więcej niż jeden stan / terytorium. Standard, który obowiązuje w Australii to FFN (Full National Number), który posiada 10 cyfr &#8211; każdy numer zaczyna się od cyfry 0.
 
 <!--more-->
 
-Sieć telefoni i usług telefonicznych jest mocno rozwinięta, ale opiera się głównie o miedź i rozwiązania analogowe. Przez wiele lat królowała tutaj jedna firma (sytuacja znajoma i porównywalna do rodzimej TPSA), która właściwie do tej pory jest właścicielem większości kabli. Ale, generalnie miało być o numerajci.
+Sieć telefoni i usług telefonicznych jest mocno rozwinięta, ale opiera się głównie o miedź i rozwiązania analogowe. Przez wiele lat królowała tutaj jedna firma (sytuacja znajoma i porównywalna do rodzimej TPSA), która właściwie do tej pory jest właścicielem większości kabli. Ale, na ogół miało być o numeracji.
 
 Pierwsze dwie cyfry symbolizują typ usługi, poniższa lista prezentuje najwyższy poziom numeracji:
 
-  * **00** &#8211; numery alarmowe i dostępny międzynardowy,
-  * **01** &#8211; alternatywe usługi telefoniczne
+  * **00** &#8211; numery alarmowe i dostępny międzynarodowy,
+  * **01** &#8211; alternatywne usługi telefoniczne
   * **02** &#8211; geograficznie: region Central East (NSW, ACT),
   * **03** &#8211; geograficznie: region  South-east (VIC, TAS),
   * **04** &#8211; numer komórkowe &#8211; 3G i GSM
@@ -41,14 +41,14 @@ Więcej informacji na temat telefonów można znaleźć na <a href="http://en.wi
 
 ##  Telefony komórkowe
 
-Operatorów telefonii komórkowej w Australii nie brakuje. Do największych operatorów można zaliczyć rodzimą <a href="http://www.telstra.com.au/mobile/" target="_blank">Telstra Mobile</a>, za nią zaraz <a href="https://www.optus.com.au/" target="_blank">Optus Mobile</a>, <a href="http://www.vodafone.com.au/personal/index.htm" target="_blank">Vodafone/3</a>, <a href="http://www.virginmobile.com.au/" target="_blank">Virgin Mobile</a>. Poza tymi operatorami jest garść innych wirtualnych usługodawców &#8211; głównie korzystających z sieci tych wymienionych wcześniej. Którego operatora wybrać? Cóż &#8211; kwestia gustu i sprawdzenia ofert poszczególnych sieci.
+Operatorów telefonii komórkowej w Australii nie brakuje. Do największych operatorów można zaliczyć rodzimą [Telstra Mobile](http://www.telstra.com.au/mobile/), za nią zaraz [Optus Mobile](https://www.optus.com.au/), [Vodafone/3](http://www.vodafone.com.au), [Virgin Mobile](http://www.virginmobile.com.au/). Poza tymi operatorami jest garść innych wirtualnych usługodawców &#8211; głównie korzystających z sieci tych wymienionych wcześniej. Którego operatora wybrać? Cóż &#8211; kwestia gustu i sprawdzenia ofert poszczególnych sieci.
 
-Jeżeli chodzi o zasięg i obszar poszczególnych operatorów to jest &#8222;różnie&#8221;. Zdaża się, że wyjechanie poza miasto skutuje brakiem zasięgu, albo roamingiem. Warto więc spradzić jakie pokrycie ma dana sieć w naszym rejonie.
+Jeżeli chodzi o zasięg i obszar poszczególnych operatorów to jest &#8222;różnie&#8221;. Zdaża się, że wyjechanie poza miasto skutkuje brakiem zasięgu, albo roamingiem. Warto więc sprawdzić jakie pokrycie ma dana sieć w naszym rejonie.
 
 Każdy z operatorów posiada podobną ofertę pre-paid i postpaid. Warto wspomnieć, że ciężko jest podpisać umowę post-paid przy braku stałego zatrudnienia, statusu PR, czy australijskiego dokumentu tożsamości &#8211; aczkolwiek nie jest to niemożliwe. Każdy pre-paid za to musi być zarejestrowany przy sprzedaży, więc trzeba mieć dokument tożsamości ze zdjęciem. Inaczej nie zostanie nam karta wydana / sprzedana.
 
 Ceny &#8211; na dzień dzisiejszy, a więc grudzień 2011 średnio miesięcznie na pre-paid trzeba wydać około $30 / mc. Można oczywiście kupić kartę pre-paid z dłuższym terminem ważności, ale wtedy rozmowy są droższe. Samą kartę pre-paid można kupić za $2. Punktów sprzedaży nie brakuje, więc nie jest to zadanie specjalnie skomplikowane.
 
-Zestaw z telefonem można już kupić od $50, więc jeżeli ktoś nie chce bawić i matwić się o simlocki (zdjęcie w Australii w zależności od modelu od $30) można wydać te pieniądze na lokalny telefon z lokalną ładowarką. Operatorzy gonią technologię dosyć mocno, Chiny są niedaleko więc  raczej w tej cenie dostaniemy całkiem aktualny przyjazny telefon.
+Zestaw z telefonem można już kupić od $50, więc jeżeli ktoś nie chce bawić i martwić się o simlocki (zdjęcie w Australii w zależności od modelu od $30) można wydać te pieniądze na lokalny telefon z lokalną ładowarką. Operatorzy gonią technologię dosyć mocno, Chiny są niedaleko więc  raczej w tej cenie dostaniemy całkiem aktualny przyjazny telefon.
 
-Jeżeli wybieramy się w większej grupie, warto zaopatrzyć się w karty tego samego operatora. Zdaża się, że połączenia są darmowe albo bardzo tanie. Zwykle też przy każdym pakiecie dostajemy transfer który możemy wykorzystać na połaczenia z internetem. Bardzo modne i popularne są darmowe połączenia do Facebooka, Twittera i innych sieci społecznościowych.
+Jeżeli wybieramy się w większej grupie, warto zaopatrzyć się w karty tego samego operatora. Zdaża się, że połączenia są darmowe albo bardzo tanie. Zwykle też przy każdym pakiecie dostajemy transfer, który możemy wykorzystać na połączenia z internetem. Bardzo modne i popularne są darmowe połączenia do Facebooka, Twittera i innych sieci społecznościowych.

@@ -27,7 +27,7 @@ Drogi są całkiem niezłe, chociaż pasy ruchu trochę węższe niż np w Polsc
 
 Odsyłam do  [Wikipedi](http://en.wikipedia.org/wiki/List_of_airports_in_Australia#Australian_Capital_Territory_.28ACT.29). Bilety lotnicze wcale nie są takie drogie. Szczególnie jak się trafi promocja. Latanie za $50, czy ostatecznie po normalnych cenach nie stanowi wielkiego obciążenia dla kieszeni.
 
-Wypożyczalnie samochodów mają się tutaj świetnie. Bo są tanie. Jednak statystycznie &#8211; kompletnie niepopularne na dalsze odleglości, chyba, że ktoś rekreacyjnie sobie w przynajmnijej kilka tygodni chce objechać całe wybrzeże… Raczej mało kto wypożyczy auto, żeby pojechać z Sydney do Canbery &#8211; już częściej zdecyduje się na pociąg lub samolot.
+Wypożyczalnie samochodów mają się tutaj świetnie. Bo są tanie. Jednak statystycznie &#8211; kompletnie niepopularne na dalsze odległości, chyba że ktoś rekreacyjnie sobie w przynajmniej kilka tygodni chce objechać całe wybrzeże… Raczej mało kto wypożyczy auto, żeby pojechać z Sydney do Canbery &#8211; już częściej zdecyduje się na pociąg lub samolot.
 
 Ale jak już się zdecyduje, to okazuje się, że na trasie nie musi się ścigać z TIRami &#8211; Chyba cały cięższy transport idzie koleją &#8211; bo tych smoków się nie uświadcza.
 
@@ -38,7 +38,7 @@ Problem z podróżowaniem “wolnymi” środkami lokomocji w Australii jest nas
 
 To nie żart, chociaż mnie osobiście bawi. W zeszłym roku w wiadomościach mówiono tu o dwóch przypadkach, które wystąpiły obok siebie w bardzo niewielkim przedziale czasowym: dwaj podróżnicy zaginęli w trasie. Dwóch spotkała podobna przygoda: na ich mapach gdzieś bylo naniesione miasteczko, które w rzeczywistości nie istniało.
 
-Jednego znaleziono odwodnionego gdzieś na bezludziu, drugiego też, ale temu ostaniemu to, w jakim był stanie, wtedy kiedy go znaleźli, było doskonale obojętne.
+Jednego znaleziono odwodnionego gdzieś na bezludziu, drugiego też, ale temu ostatniemu to, w jakim był stanie, wtedy kiedy go znaleźli, było doskonale obojętne.
 
 Takie rzeczy człowiekowi w Europie nie mają szansy się przydarzyć a tu &#8211; a i owszem.
 
@@ -50,9 +50,9 @@ Pozostaje słuchanie komunikatów i podporządkowanie się zakazowi pływania.
 
 Niemniej, co roku zdarza się że kilku śmiałków ma jakieś bliższe spotkania z tymi uroczymi stworzonkami.
 
-Oprócz surfowania i byczenia sie na plaży albo nurkowania, można by w góry, ale turystyka górska chyba nigdzie nie jest tak pięknie rozwinięta jak w Polsce, czy Czechach, albo na Słowacji. Poza tym, nigdy nie wiadomo, co człowieka może ugryźć…
+Oprócz surfowania i byczenia sie na plaży, albo nurkowania, można by w góry, ale turystyka górska chyba nigdzie nie jest tak pięknie rozwinięta jak w Polsce, czy Czechach, albo na Słowacji. Poza tym nigdy nie wiadomo, co człowieka może ugryźć…
 
-Trochę można w step i do buszu. Na biwak. &#8211; Australiczycy mają po prostu przecudowny rynek jesli chodzi o off-road i biwakowanie!
+Trochę można w step i do buszu. Na biwak. &#8211; Australijczycy mają przecudowny rynek, jeśli chodzi o off-road i biwakowanie!
 
 Dla leniwych &#8211; wiadomo, cała masa hoteli do wyboru, o różnym standardzie i w różnej cenie, jednak oczywiście warto sobie wcześniej coś zarezerwować, zwłaszcza w gorącym sezonie. Kilka hoteli można znaleźć [tutaj](http://www.trivago.pl/).
 

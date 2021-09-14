@@ -8,6 +8,10 @@ comments = true
 disqusShortname = "australiapl" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "UA-629893-48" # Enable Google Analytics by entering your tracking id
 
+
+[permalinks]
+categories = "/category/:slug/"
+
 [taxonomies]
 category = 'categories'
 tags = 'tags'
@@ -15,7 +19,7 @@ tags = 'tags'
 [Params]
 subtitle = "Zacznij podróż życia już dziś" # Deprecated in favor of .Site.Params.logo.subtitle
 description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+copyright = "Australia Blog" # Footer copyright holder, otherwise will use site title
 opengraph = true # Enable OpenGraph if true
 schema = true # Enable Schema
 twitter_cards = false # Enable Twitter Cards if true
@@ -53,7 +57,7 @@ tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
 # Enable parts of social widget
-#facebook = "spidersoftau"
+facebook = "australiapl"
 email = "info@australia.com.pl"
 
 [Author] # Used in authorbox

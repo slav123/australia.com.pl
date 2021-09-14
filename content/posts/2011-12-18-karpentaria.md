@@ -3,8 +3,6 @@ title: Karpentaria
 author: slav
 type: post
 date: 2011-12-18T00:26:28+00:00
-url:
-  - http://shop.mediarodzina.com.pl/catalogue/book/id/471/karpentaria-alexis-wright-australia--aborygeni-zatoka
 thumbnail: images/uploads/2011/12/Karpentaria.jpg
 autor:
   - Alexis Wright
