@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-16T00:40:46+00:00
 url: /flora-australii/
-thumbnail: images/uploads/2011/12/flora.jpg
+thumbnail: images/2011/12/flora.jpg
 dsq_thread_id:
   - 532455675
 categories:

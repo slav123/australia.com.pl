@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2012-01-14T07:27:35+00:00
 url: /melbourne-cup/
-thumbnail: images/uploads/2012/01/melcup10-1a.jpg
+thumbnail: images/2012/01/melcup10-1a.jpg
 dsq_thread_id:
   - 538411083
 categories:

@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-30T09:00:34+00:00
 url: /bilety-do-australii/
-thumbnail: images/uploads/2012/01/travel-5219496_1920.jpg
+thumbnail: images/2012/01/travel-5219496_1920.jpg
 dsq_thread_id:
   - 638764985
 categories:

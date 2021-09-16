@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2016-01-28T09:32:50+00:00
 url: /wystawa-zdjec-worlds-magic-moments-the-antipodes/
-thumbnail: images/uploads/2016/01/Sydney-Opera-House.jpg
+thumbnail: images/2016/01/Sydney-Opera-House.jpg
 dsq_thread_id:
   - 4463002812
 categories:
@@ -29,7 +29,7 @@ Australia &#8211; z lotu ptaka, a właściwie z okien samolotu to olbrzymia czer
 
 &nbsp;
 
-![](/images/uploads/2016/01/Urulu.jpg)
+![](/images/2016/01/Urulu.jpg)
 
 Wyspa &#8211; kontynent większy od Europy i większy od Stanów Zjednoczonych Ameryki Północnej (nie licząc Alaski), gdzie zatrzymał się czas, gdzie można zobaczyć  i wręcz dotknąć  historii naszego globu, gdzie formy geologiczne sprzed setek milionów lat nie są niczym niezwykłym, gdzie żyją zwierzęta niespotykane nigdzie indziej.
 
@@ -41,7 +41,7 @@ Tasmania &#8211; bajeczna wyspa, gdzie czas płynie inaczej, jakby wolniej, tak 
 
 Nowa Zelandia &#8211; dwie wyspy, północna i południowa, które są jakby światem w pigułce, jakby wszystkie strefy klimatyczne udało się komuś umieścić w jednym miejscu.
 
-![](/images/uploads/2016/01/Otakou.jpg)
+![](/images/2016/01/Otakou.jpg)
 
 Drzewa liściaste i iglaste, las palmowy i las tropikalny z paprociami większymi od naszych dębów i
 

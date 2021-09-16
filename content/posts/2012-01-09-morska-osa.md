@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-09T09:25:44+00:00
 url: /morska-osa/
-thumbnail: images/uploads/2012/01/box-jellyfish.jpg
+thumbnail: images/2012/01/box-jellyfish.jpg
 dsq_thread_id:
   - 532452160
 categories:

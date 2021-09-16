@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-17T11:39:57+00:00
 url: /subiektywnie-o-australijczykach/
-thumbnail: images/uploads/2011/12/subiektywnie_o_australiczykach.jpg
+thumbnail: images/2011/12/subiektywnie_o_australiczykach.jpg
 dsq_thread_id:
   - 532465299
 categories:

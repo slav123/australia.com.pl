@@ -5,7 +5,7 @@ type: post
 date: 2011-12-18T00:17:19+00:00
 url:
   - http://www.escapemagazine.pl/369666-down-under-australia
-thumbnail: images/uploads/2011/12/podroz-marzen.jpg
+thumbnail: images/2011/12/podroz-marzen.jpg
 autor:
   - Agnieszka Rogowa
 dsq_thread_id:

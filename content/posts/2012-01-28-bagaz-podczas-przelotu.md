@@ -5,7 +5,7 @@ author: slav
 type: post
 date: 2012-01-28T09:22:42+00:00
 url: /bagaz-podczas-przelotu/
-thumbnail: images/uploads/2012/01/bagaz-samolot.jpg
+thumbnail: images/2012/01/bagaz-samolot.jpg
 dsq_thread_id:
   - 639898482
 categories:

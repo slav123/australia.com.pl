@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-25T03:16:21+00:00
 url: /warto-obejrzec-shine-blask/
-thumbnail: images/uploads/2011/12/shine_geoffrey_rush.jpg
+thumbnail: images/2011/12/shine_geoffrey_rush.jpg
 dsq_thread_id:
   - 533537323
 categories:

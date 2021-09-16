@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-21T03:06:45+00:00
 url: /wycieczka-do-royal-national-park/
-thumbnail: images/uploads/2012/01/national-park.jpg
+thumbnail: images/2012/01/national-park.jpg
 dsq_thread_id:
   - 640042049
 categories:

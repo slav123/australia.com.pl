@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-12-28T12:57:54+00:00
 url: /sylwester-2012-w-sydney/
-thumbnail: images/uploads/2012/12/s.jpg
+thumbnail: images/2012/12/s.jpg
 dsq_thread_id:
   - 996742335
 categories:

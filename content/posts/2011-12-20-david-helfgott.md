@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-20T07:19:51+00:00
 url: /david-helfgott/
-thumbnail: images/uploads/2011/12/david_helfgott.jpg
+thumbnail: images/2011/12/david_helfgott.jpg
 dsq_thread_id:
   - 534296949
 categories:

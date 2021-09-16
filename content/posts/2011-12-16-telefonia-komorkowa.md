@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2011-12-16T06:39:45+00:00
 url: /telefonia-komorkowa/
-thumbnail: images/uploads/2011/12/telefon.jpg
+thumbnail: images/2011/12/telefon.jpg
 dsq_thread_id:
   - 532590534
 categories:

@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-30T11:23:35+00:00
 url: /wiza-studencka/
-thumbnail: images/uploads/2011/12/visa.jpg
+thumbnail: images/2011/12/visa.jpg
 dsq_thread_id:
   - 532452105
 categories:

@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-15T11:07:59+00:00
 url: /hello-world/
-thumbnail: images/uploads/2011/12/serwis_australia.jpg
+thumbnail: images/2011/12/serwis_australia.jpg
 dsq_thread_id:
   - 533624517
 categories:

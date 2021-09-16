@@ -5,7 +5,7 @@ author: slav
 type: post
 date: 2016-01-20T05:11:24+00:00
 url: /weze-w-australijskiej-kuchni/
-thumbnail: images/uploads/2016/01/w704.jpg
+thumbnail: images/2016/01/w704.jpg
 dsq_thread_id:
   - 4506572208
 ampforwp-amp-on-off:

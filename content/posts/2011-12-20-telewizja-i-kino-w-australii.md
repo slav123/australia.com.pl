@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-20T07:35:33+00:00
 url: /telewizja-i-kino-w-australii/
-thumbnail: images/uploads/2011/12/telewizja-i-kino-w-australi.jpg
+thumbnail: images/2011/12/telewizja-i-kino-w-australi.jpg
 dsq_thread_id:
   - 539082296
 categories:

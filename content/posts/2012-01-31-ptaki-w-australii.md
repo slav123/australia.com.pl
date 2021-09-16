@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-31T09:30:38+00:00
 url: /ptaki-w-australii/
-thumbnail: images/uploads/2011/12/fauna.jpg
+thumbnail: images/2011/12/fauna.jpg
 dsq_thread_id:
   - 639549204
 categories:
@@ -18,29 +18,29 @@ Australia obfituje we wszelkiego rodzaju ptactwo małe i duże. Żeby spotkać j
 <!--more-->
 
   
-![Australian Ibis](images/uploads/2012/01/DSC03858.webp)
-![](images/uploads/2012/01/DSC03876.webp)
-![](images/uploads/2012/01/DSC03880.webp)
-![Noisy Miner](images/uploads/2012/01/DSC03862.webp)
-![Noisy Miner](images/uploads/2012/01/DSC03875.webp)
-![](images/uploads/2012/01/DSC03882.webp)
-![](images/uploads/2012/01/DSC03903.webp)
-![](images/uploads/2012/01/DSC03915.webp)
-![](images/uploads/2012/01/DSC03917.webp)
-![Rainbow Lorikeet](images/uploads/2012/01/DSC03921.jpeg)
-![](images/uploads/2012/01/DSC03924.webp)
-![](images/uploads/2012/01/DSC03925_.webp)
-![](images/uploads/2012/01/DSC03980.webp)
-![](images/uploads/2012/01/DSC03985.webp)
-![](images/uploads/2012/01/DSC03990.webp)
-![](images/uploads/2012/01/DSC04303.webp)
-![](images/uploads/2012/01/DSC04304.webp)
-![](images/uploads/2012/01/DSC04353.jpg)
-![](images/uploads/2012/01/DSC04355.webp)
-![](images/uploads/2012/01/DSC04302.webp)
-![](images/uploads/2012/01/DSC04357.webp)
-![](images/uploads/2012/01/DSC03921_.jpg)
-![](images/uploads/2012/01/IMG_0445.webp) 
+![Australian Ibis](images/2012/01/DSC03858.webp)
+![](images/2012/01/DSC03876.webp)
+![](images/2012/01/DSC03880.webp)
+![Noisy Miner](images/2012/01/DSC03862.webp)
+![Noisy Miner](images/2012/01/DSC03875.webp)
+![](images/2012/01/DSC03882.webp)
+![](images/2012/01/DSC03903.webp)
+![](images/2012/01/DSC03915.webp)
+![](images/2012/01/DSC03917.webp)
+![Rainbow Lorikeet](images/2012/01/DSC03921.jpeg)
+![](images/2012/01/DSC03924.webp)
+![](images/2012/01/DSC03925_.webp)
+![](images/2012/01/DSC03980.webp)
+![](images/2012/01/DSC03985.webp)
+![](images/2012/01/DSC03990.webp)
+![](images/2012/01/DSC04303.webp)
+![](images/2012/01/DSC04304.webp)
+![](images/2012/01/DSC04353.jpg)
+![](images/2012/01/DSC04355.webp)
+![](images/2012/01/DSC04302.webp)
+![](images/2012/01/DSC04357.webp)
+![](images/2012/01/DSC03921_.jpg)
+![](images/2012/01/IMG_0445.webp) 
 
  [1]: https://lh3.googleusercontent.com/-3vYlQiVbm58/TxuR1MwTzSI/AAAAAAAAD2M/5mViw1Rapt8/s800/DSC03858.webp.jpg "DSC03858.webp"
  [2]: https://lh5.googleusercontent.com/-hbkWT-ZJQdc/TxuR1MuZnqI/AAAAAAAAD2I/gvoX8B3CxjQ/s800/DSC03862.webp.jpg "DSC03862.webp"

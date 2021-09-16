@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2013-12-05T00:49:03+00:00
 url: /porady-dla-podroznikow/
-thumbnail: images/uploads/2013/12/great-ocean-road-1180396_1280.jpg
+thumbnail: images/2013/12/great-ocean-road-1180396_1280.jpg
 dsq_thread_id:
   - 2025454926
 categories:

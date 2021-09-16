@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-26T09:11:21+00:00
 url: /linie-lotnicze-operujace-do-australii/
-thumbnail: images/uploads/2012/01/A380-on-runway.jpg
+thumbnail: images/2012/01/A380-on-runway.jpg
 dsq_thread_id:
   - 638765159
 categories:

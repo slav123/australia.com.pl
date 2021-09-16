@@ -4,8 +4,8 @@ author: slav
 type: post
 date: 2019-03-08T14:02:37+00:00
 url: /jak-przelewac-pieniadze-do-polski-z-australii/
-thumbnail: images/uploads/2019/03/australian-2874029_1280.jpg
-image: images/uploads/2019/03/australian-2874029_1280.jpg
+thumbnail: images/2019/03/australian-2874029_1280.jpg
+image: images/2019/03/australian-2874029_1280.jpg
 ampforwp-amp-on-off:
   - default
 categories:

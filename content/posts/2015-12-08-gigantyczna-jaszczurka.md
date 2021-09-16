@@ -5,8 +5,8 @@ author: slav
 type: post
 date: 2015-12-08T10:02:04+00:00
 url: /gigantyczna-jaszczurka/
-thumbnail: images/uploads/2015/12/CVVOMwFUsAAhDBE.jpg
-image: images/uploads/2015/12/CVVOMwFUsAAhDBE.jpg
+thumbnail: images/2015/12/CVVOMwFUsAAhDBE.jpg
+image: images/2015/12/CVVOMwFUsAAhDBE.jpg
 dsq_thread_id:
   - 4385700808
 categories:

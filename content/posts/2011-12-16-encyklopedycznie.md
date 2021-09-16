@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-16T00:57:45+00:00
 url: /encyklopedycznie/
-thumbnail: images/uploads/2011/12/encyklopedycznie_ogolnie.jpg
+thumbnail: images/2011/12/encyklopedycznie_ogolnie.jpg
 dsq_thread_id:
   - 532523054
 categories:

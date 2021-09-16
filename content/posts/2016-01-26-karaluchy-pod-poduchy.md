@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2016-01-26T02:55:40+00:00
 url: /karaluchy-pod-poduchy/
-thumbnail: images/uploads/2016/01/Australian_Cockroach.jpg
+thumbnail: images/2016/01/Australian_Cockroach.jpg
 dsq_thread_id:
   - 4523516892
 categories:

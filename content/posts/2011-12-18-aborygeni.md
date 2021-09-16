@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-18T00:15:43+00:00
 url: /aborygeni/
-thumbnail: images/uploads/2011/12/aborygeni.jpg
+thumbnail: images/2011/12/aborygeni.jpg
 dsq_thread_id:
   - 532577814
 categories:

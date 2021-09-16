@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-13T03:02:02+00:00
 url: /10-powodow-dla-ktorych-nie-warto-odwiedzac-australii/
-thumbnail: images/uploads/2012/01/rekin.jpg
+thumbnail: images/2012/01/rekin.jpg
 dsq_thread_id:
   - 536905907
 categories:

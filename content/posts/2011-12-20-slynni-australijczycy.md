@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-20T06:43:27+00:00
 url: /slynni-australijczycy/
-thumbnail: images/uploads/2011/12/slynni_australijczycy1.jpg
+thumbnail: images/2011/12/slynni_australijczycy1.jpg
 dsq_thread_id:
   - 532452938
 categories:
@@ -21,14 +21,14 @@ Zapraszamy do oczywiście subiektywnej, galerii **słynnych australijczyków** i
 
 Aktualnie na liście można znaleźć nazwiska takie jak:
 
-  * [Peter Weir][1] ![Peter Weir](images/uploads/2012/01/peter_weir.jpg)[2]
-  * **Paul Hogan** ![Paul Hogan](images/uploads/2011/12/paul-hogan.jpg "Paul Hogan")
-  * Mel Gibson ![](images/uploads/2011/12/300full.jpg)
-  * **Kylie Minogue** ![](images/uploads/2011/12/Kylie-Minogue.jpg)
-  * **Russell Crowe** ![](images/uploads/2011/12/Russell-Crowe.jpg)
-  * **Nicole Kidman** ![](images/uploads/2011/12/Nicole_Kidman-Birth.jpg)
-  * **Nick Cave** ![](images/uploads/2011/12/478px-Nick_Cave_2009_New_York_City_2.jpg)
-  * **Hugh Jackman** ![](images/uploads/2011/12/hugh-jackman-150x150.jpg)
+  * [Peter Weir][1] ![Peter Weir](images/2012/01/peter_weir.jpg)[2]
+  * **Paul Hogan** ![Paul Hogan](images/2011/12/paul-hogan.jpg "Paul Hogan")
+  * Mel Gibson ![](images/2011/12/300full.jpg)
+  * **Kylie Minogue** ![](images/2011/12/Kylie-Minogue.jpg)
+  * **Russell Crowe** ![](images/2011/12/Russell-Crowe.jpg)
+  * **Nicole Kidman** ![](images/2011/12/Nicole_Kidman-Birth.jpg)
+  * **Nick Cave** ![](images/2011/12/478px-Nick_Cave_2009_New_York_City_2.jpg)
+  * **Hugh Jackman** ![](images/2011/12/hugh-jackman-150x150.jpg)
 
 
 

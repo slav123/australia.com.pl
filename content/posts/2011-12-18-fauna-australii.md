@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-18T00:33:40+00:00
 url: /fauna-australii/
-thumbnail: images/uploads/2011/12/fauna.jpg
+thumbnail: images/2011/12/fauna.jpg
 dsq_thread_id:
   - 532467357
 categories:

@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2011-12-17T23:43:11+00:00
 url: /wynajecie-mieszkania/
-thumbnail: images/uploads/2011/12/wynajecie-mieszkania.jpg
+thumbnail: images/2011/12/wynajecie-mieszkania.jpg
 dsq_thread_id:
   - 532455145
 categories:

@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2012-01-05T07:03:41+00:00
 url: /peter-weir/
-thumbnail: images/uploads/2012/01/peter_weir.jpg
+thumbnail: images/2012/01/peter_weir.jpg
 dsq_thread_id:
   - 532453438
 categories:

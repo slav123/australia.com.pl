@@ -5,7 +5,7 @@ type: post
 date: 2011-12-18T00:29:56+00:00
 url:
   - http://czarne.com.pl/?a=350
-thumbnail: images/uploads/2011/12/Niewidzialni.jpg
+thumbnail: images/2011/12/Niewidzialni.jpg
 autor:
   - Mateusz Marczewski
 dsq_thread_id:

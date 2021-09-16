@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2012-02-23T11:08:59+00:00
 url: /lodowka-czesc-druga/
-thumbnail: images/uploads/2012/02/glowa-wsciane.jpg
+thumbnail: images/2012/02/glowa-wsciane.jpg
 dsq_thread_id:
   - 639416961
 categories:

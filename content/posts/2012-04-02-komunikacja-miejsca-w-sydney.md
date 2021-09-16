@@ -4,6 +4,7 @@ author: slav
 type: post
 date: 2012-04-02T10:17:48+00:00
 url: /komunikacja-miejsca-w-sydney/
+thumbnail: /images/2012/04/A32_approaching_Flemington.jpg
 dsq_thread_id:
   - 639234472
 categories:

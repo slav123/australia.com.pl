@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-06T13:00:20+00:00
 url: /zabojczy-waz-taipan/
-thumbnail: images/uploads/2012/01/taipan.jpg
+thumbnail: images/2012/01/taipan.jpg
 dsq_thread_id:
   - 532453256
 categories:

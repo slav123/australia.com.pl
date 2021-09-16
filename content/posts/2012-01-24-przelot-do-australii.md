@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-24T05:10:35+00:00
 url: /przelot-do-australii/
-thumbnail: images/uploads/2012/01/przelot_australia.jpg
+thumbnail: images/2012/01/przelot_australia.jpg
 dsq_thread_id:
   - 638676937
 categories:

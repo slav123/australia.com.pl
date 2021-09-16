@@ -3,7 +3,7 @@ title: Karpentaria
 author: slav
 type: post
 date: 2011-12-18T00:26:28+00:00
-thumbnail: images/uploads/2011/12/Karpentaria.jpg
+thumbnail: images/2011/12/Karpentaria.jpg
 autor:
   - Alexis Wright
 dsq_thread_id:

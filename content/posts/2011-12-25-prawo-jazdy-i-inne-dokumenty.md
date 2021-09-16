@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-25T02:56:40+00:00
 url: /prawo-jazdy-i-inne-dokumenty/
-thumbnail: images/uploads/2011/12/dokumenty_prawo_jazdy.jpg
+thumbnail: images/2011/12/dokumenty_prawo_jazdy.jpg
 dsq_thread_id:
   - 532452887
 categories:

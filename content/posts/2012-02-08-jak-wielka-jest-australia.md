@@ -12,6 +12,6 @@ categories:
 ---
 Australia to wielki kraj. O tym wiedzą wszyscy, ale jak to ma się do Europy? Poniżej mała grafika pokazująca jak wyglądają proporcje. 
 
-![](images/uploads/2012/02/australia_europe.jpg)
+![](images/2012/02/australia_europe.jpg)
 
- [1]: https://www.australia.com.pl/images/uploads/2012/02/australia_europe.jpg
+ [1]: https://www.australia.com.pl/images/2012/02/australia_europe.jpg

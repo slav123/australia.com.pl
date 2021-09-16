@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-18T09:17:58+00:00
 url: /ciekawe-fakty-na-temat-australii/
-thumbnail: images/uploads/2012/01/fo.jpg
+thumbnail: images/2012/01/fo.jpg
 dsq_thread_id:
   - 543773416
 categories:

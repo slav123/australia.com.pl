@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2012-01-11T09:13:48+00:00
 url: /osmiorca-hapalochlaena/
-thumbnail: images/uploads/2012/01/oct.jpg
+thumbnail: images/2012/01/oct.jpg
 dsq_thread_id:
   - 534801576
 categories:

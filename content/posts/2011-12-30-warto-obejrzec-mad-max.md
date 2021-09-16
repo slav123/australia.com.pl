@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2011-12-30T04:15:45+00:00
 url: /warto-obejrzec-mad-max/
-thumbnail: images/uploads/2011/12/mad_max.jpg
+thumbnail: images/2011/12/mad_max.jpg
 dsq_thread_id:
   - 532490169
 categories:

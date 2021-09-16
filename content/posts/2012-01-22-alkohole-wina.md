@@ -4,7 +4,7 @@ author: dominika
 type: post
 date: 2012-01-22T00:54:24+00:00
 url: /alkohole-wina/
-thumbnail: images/uploads/2012/01/wina.jpg
+thumbnail: images/2012/01/wina.jpg
 dsq_thread_id:
   - 641248941
 categories:

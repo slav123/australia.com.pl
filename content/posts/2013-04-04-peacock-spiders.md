@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2013-04-04T23:01:09+00:00
 url: /peacock-spiders/
-thumbnail: images/uploads/2013/04/Peacockspiderman.png
+thumbnail: images/2013/04/Peacockspiderman.png
 dsq_thread_id:
   - 1188422718
 categories:

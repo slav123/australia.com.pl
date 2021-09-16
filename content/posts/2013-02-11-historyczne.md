@@ -4,7 +4,7 @@ author: slav
 type: post
 date: 2013-02-11T22:39:23+00:00
 url: /historyczne/
-thumbnail: images/uploads/2013/02/mp007532.jpg
+thumbnail: images/2013/02/mp007532.jpg
 dsq_thread_id:
   - 1077865813
 categories:
