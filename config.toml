@@ -1,5 +1,6 @@
 baseURL = 'https://www.australia.com.pl/'
 languageCode = 'pl-pl'
+paginate = "5"
 defaultContentLanguage = 'pl'
 title = 'Australia'
 theme = 'mainroad'
