@@ -14,7 +14,7 @@ categories:
 ---
 Tym razem będzie coś pozytywnego &#8211; czyli jak poruszać się po mieście.
 
-Otóż jak sama nazwa wskazuje &#8211; komunikacja miejska służy do poruszania się po mieście, albo w jego granicach. Biorąc pod uwagę że Sydney ma lekko ponad 100km rozpiętości a czasami i więcej &#8211; poruszanie się po jego granicach stanowi nie lada wyczyn. Do wyboru mamy kilka &#8211; środków publicznego transportu: metro (City Rail), autobusy, light rail i mono rail (czyli tramwaje i kolejka) oraz promy. Zaczniemy od najcięższych pojazdów czyli od metra.
+Otóż jak sama nazwa wskazuje &#8211; komunikacja miejska służy do poruszania się po mieście, albo w jego granicach. Biorąc pod uwagę że Sydney ma lekko ponad 100km rozpiętości a czasami i więcej &#8211; poruszanie się po jego granicach stanowi nie lada wyczyn. Do wyboru mamy kilka &#8211; środków publicznego transportu: metro (City Rail), autobusy, light rail i mono rail (czyli tramwaje i kolejka) oraz promy. Zaczniemy od najcięższych pojazdów, czyli od metra.
 
 <!--more-->
 
