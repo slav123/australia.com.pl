@@ -48,6 +48,6 @@ Nie jest to najtańsze, raczej warto zainwestować w bilet tygodniowy jeżeli ch
 
 ## Taksówki
 
-Zasadniczo tyle. Są oczywiście taksówki &#8211; niespecjalnie drogie, wejście w granicach $6 do tego za kilometr w granicach $1.5-$2 za km. Przykładowo &#8211; przejechanie się z Opery do Central to $14 dolarów, wycieczka na Manly około północy to $65.  Taksówek nie brakuje, są wygodne i jest ich pełno. Nie warto zamawiać przez telefon, bo zwykle wiąże się to z dodatkową opłatą. Lepiej przejść się na postój, albo złapać na ulicy.
+Zasadniczo tyle. Są oczywiście taksówki &#8211; niespecjalnie drogie, wejście w granicach $6 do tego za kilometr w granicach $1.5-$2 za km. Przykładowo &#8211; przejechanie się z Opery do Central to $14 dolarów, wycieczka na Manly około północy to $65.  Taksówek nie brakuje, są wygodne i jest ich pełno. Nie warto zamawiać przez telefon, bo zwykle wiąże się to z dodatkową opłatą. Lepiej przejść się na postój, albo złapać na ulicy.
 
  [1]: http://www.cityrail.info

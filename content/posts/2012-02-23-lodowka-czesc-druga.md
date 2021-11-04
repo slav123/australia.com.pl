@@ -34,7 +34,7 @@ i moje ulubione:
 
 (światełko w tunelu &#8211; może mi się wydaje, może to dusze idące do nieba&#8230; może agonia trwała dłużej&#8230; &#8211; nie &#8211; hah, żart. Tu nie wiedzą, co to metafizyka. Tu nie przywiazują się do przedmiotów, żeby pokochać, żeby zauważyć że mają dusze. Tu je wypieprzają na chodnik, kiedy im się znudzą. Tu jest kraj wysoko rozwinięty. Z wysoko niedorozwiniętymi obywatelami)
 
-Więc &#8211; Manual na pamięć.
+Więc &#8211; Manual na pamięć.
 
 Najpierw mail. Bez maila &#8211; dupa zbita. Nie przejdziesz na wyższy level.
 
@@ -48,13 +48,13 @@ Autoresponder:
 
 &#8222;Twoje zgłoszenie zostało przyjęte. Skontaktujemy sie z tobą w ciągu dwóch dni roboczych. &#8221;
 
-O matko. O niedobrze. O już nie wiem co.
+O matko. O niedobrze. O już nie wiem co.
 
 DWA DNI ROBOCZE &#8211; o Jezus. To w przeliczeniu, to ile to będzie? Matko &#8211; nie wiem. Panika, histeria.
 
 Myślę. Może gdzieś mi się to uda sprawdzić. Może jakoś to ustalę.
 
-Niby informacja czysta i klarowna. Niby wszystko w porządku &#8211;  Dwa dni robocze. Ale nie tutaj.
+Niby informacja czysta i klarowna. Niby wszystko w porządku &#8211;  Dwa dni robocze. Ale nie tutaj.
 
 Tutaj wszystko relatywne. Tylko nie wiem w jakim kontekście. Nie wiem. Nie uda mi się tego ustalić. To juz wiem. Postanowiłam czas aproksymować.
 
@@ -64,11 +64,11 @@ Po 3 dniach zadzwoniłam tam i oczywiście zanim sie dodzwoniłam (jakies 30 min
 
 I podają mi z upoerm maniaka a ja z uporem jeszcze większym czekam na połączenie.
 
-Wygrałam. Wprawdzie nie wojnę ale bitwę, ale morale mi się trochę podniosło.
+Wygrałam. Wprawdzie nie wojnę ale bitwę, ale morale mi się trochę podniosło.
 
 Odbiera, jakiś azerbejdżanin, albo inny akcent złamany w zakresie aparatu mowy coraz bardziej oddalajacej sie od zrozumiałego&#8230;
 
-(&#8222;- Jaki jest twój angielski? &#8211; Tak powiedziałbym &#8211; parę tonacji oddalony o koloru białego. &#8211; zawsze kłamią. ZAWSZE. Wychodzi to na jaw już po paru minutach&#8221;)
+(&#8222;- Jaki jest twój angielski? &#8211; Tak powiedziałbym &#8211; parę tonacji oddalony o koloru białego. &#8211; zawsze kłamią. ZAWSZE. Wychodzi to na jaw już po paru minutach&#8221;)
 
 Więc tłumaczę:
 
@@ -134,7 +134,7 @@ Tylko czy u nich godzina na pewno trwa 60 minut. Noi pytanie którą mają teraz
 
 Druga myśl. No, ja se zsynchronizuję zegarek z Azerbejdżanem jakimś a przyjedzie Czukcza, Czeczen, Hindus lub inne coś&#8230;.
 
-Ale mimo wszystko, jakoś &#8230; zaczynam wierzyć, że widełki czasowe,  że ma to szanse, że będzie&#8230;
+Ale mimo wszystko, jakoś &#8230; zaczynam wierzyć, że widełki czasowe,  że ma to szanse, że będzie&#8230;
 
 Jednak trzecia myśl dopada mnie nagle. Taka zła i męcząca.
 
@@ -152,7 +152,7 @@ Postanawiam zaryzykować:
 
 &#8211; Więc ja teraz pani prześlę dane dla kuriera i dane dla sklepu z opisem awarii. Pani se to druknie i załączy do przesyłki. Maila pani mam. Proszę mieć miły dzień.
 
-&#8211; Niech i ty masz miły &#8211;  odpowiadam. Zdezorientowana odkładam sluchawkę.
+&#8211; Niech i ty masz miły &#8211;  odpowiadam. Zdezorientowana odkładam sluchawkę.
 
 Coś za prosto było&#8230;. coś się stanie niechybnie.
 

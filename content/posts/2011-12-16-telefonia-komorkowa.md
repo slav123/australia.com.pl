@@ -27,7 +27,7 @@ Pierwsze dwie cyfry symbolizują typ usługi, poniższa lista prezentuje najwyż
   * **00** &#8211; numery alarmowe i dostępny międzynarodowy,
   * **01** &#8211; alternatywne usługi telefoniczne
   * **02** &#8211; geograficznie: region Central East (NSW, ACT),
-  * **03** &#8211; geograficznie: region  South-east (VIC, TAS),
+  * **03** &#8211; geograficznie: region  South-east (VIC, TAS),
   * **04** &#8211; numer komórkowe &#8211; 3G i GSM
   * **05** &#8211; numery uniwersalne, prywatne
   * **07** &#8211; geograficznie &#8211; Nort-east (QLD)
@@ -39,7 +39,7 @@ Więcej informacji na temat telefonów można znaleźć na [Wikipedii](http://en
 
 > Ciekawostka: w większości przypadków koszt połączenia składa się z dwóch składników, opłaty za połączenie a potem opłaty za minutę. System ten obowiązuje zarówno w przypadku połączeń komórkowych jak i stacjonarnych.
 
-##  Telefony komórkowe
+##  Telefony komórkowe
 
 Operatorów telefonii komórkowej w Australii nie brakuje. Do największych operatorów można zaliczyć rodzimą [Telstra Mobile](http://www.telstra.com.au/mobile/), za nią zaraz [Optus Mobile](https://www.optus.com.au/), [Vodafone/3](http://www.vodafone.com.au), [Virgin Mobile](http://www.virginmobile.com.au/). Poza tymi operatorami jest garść innych wirtualnych usługodawców &#8211; głównie korzystających z sieci tych wymienionych wcześniej. Którego operatora wybrać? Cóż &#8211; kwestia gustu i sprawdzenia ofert poszczególnych sieci.
 
@@ -49,6 +49,6 @@ Każdy z operatorów posiada podobną ofertę pre-paid i postpaid. Warto wspomni
 
 Ceny &#8211; na dzień dzisiejszy, a więc grudzień 2011 średnio miesięcznie na pre-paid trzeba wydać około $30 / mc. Można oczywiście kupić kartę pre-paid z dłuższym terminem ważności, ale wtedy rozmowy są droższe. Samą kartę pre-paid można kupić za $2. Punktów sprzedaży nie brakuje, więc nie jest to zadanie specjalnie skomplikowane.
 
-Zestaw z telefonem można już kupić od $50, więc jeżeli ktoś nie chce bawić i martwić się o simlocki (zdjęcie w Australii w zależności od modelu od $30) można wydać te pieniądze na lokalny telefon z lokalną ładowarką. Operatorzy gonią technologię dosyć mocno, Chiny są niedaleko więc  raczej w tej cenie dostaniemy całkiem aktualny przyjazny telefon.
+Zestaw z telefonem można już kupić od $50, więc jeżeli ktoś nie chce bawić i martwić się o simlocki (zdjęcie w Australii w zależności od modelu od $30) można wydać te pieniądze na lokalny telefon z lokalną ładowarką. Operatorzy gonią technologię dosyć mocno, Chiny są niedaleko więc  raczej w tej cenie dostaniemy całkiem aktualny przyjazny telefon.
 
 Jeżeli wybieramy się w większej grupie, warto zaopatrzyć się w karty tego samego operatora. Zdaża się, że połączenia są darmowe albo bardzo tanie. Zwykle też przy każdym pakiecie dostajemy transfer, który możemy wykorzystać na połączenia z internetem. Bardzo modne i popularne są darmowe połączenia do Facebooka, Twittera i innych sieci społecznościowych.

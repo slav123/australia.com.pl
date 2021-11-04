@@ -12,6 +12,6 @@ categories:
  
 
 ---
-Jest to druga odsłona znanego już wam wcześniej serwisu Australia.com.pl &#8211; redakcja jest kompletnie nowa, materiały zupełnie świeże i z pierwszej ręki. Postaramy się wam przekazać podstawowe fakty na temat historii, geografii, fauny i flory. Pojawi się też sporo praktycznych porad związanych z życiem, funkcjonowaniem i ciekawostkami związanymi z tym egzotycznym miejscem. Nie zabraknie też subiektywnych opinii na temat Australii i Australijczyków widzianych okiem Polaków.
+Jest to druga odsłona znanego już wam wcześniej serwisu Australia.com.pl &#8211; redakcja jest kompletnie nowa, materiały zupełnie świeże i z pierwszej ręki. Postaramy się wam przekazać podstawowe fakty na temat historii, geografii, fauny i flory. Pojawi się też sporo praktycznych porad związanych z życiem, funkcjonowaniem i ciekawostkami związanymi z tym egzotycznym miejscem. Nie zabraknie też subiektywnych opinii na temat Australii i Australijczyków widzianych okiem Polaków.
 
 Zapraszamy!!!

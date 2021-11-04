@@ -30,7 +30,7 @@ To największe linie lotnicze Korei płd. Siedziba znajduje się w Seulu. Linie 
 
 ## Air China
 
-Chińskie narodowe linie lotnicze z siedzibą w Pekinie. Głównym węzłem tego przewoźnika jest Port Lotniczy Pekin. Air China obsługuje większość lotnisk na terenie Chin oraz posiada połączenia  z całym światem oprócz Afryki. Trasa do Australii obejmuje przelot przez jeden z portów europejskich oraz Shanghai lub Pekin. Linie posiadają największą chińską flotę, w skład której wchodzą: Airbus A319-100, A320-200, A321-200, A330-200, A340-300, Boeing 737-300, 737-700, 737-800, 747-400, 747-400M, 757-200, 767-300, 767-300ER, 777-200  
+Chińskie narodowe linie lotnicze z siedzibą w Pekinie. Głównym węzłem tego przewoźnika jest Port Lotniczy Pekin. Air China obsługuje większość lotnisk na terenie Chin oraz posiada połączenia  z całym światem oprócz Afryki. Trasa do Australii obejmuje przelot przez jeden z portów europejskich oraz Shanghai lub Pekin. Linie posiadają największą chińską flotę, w skład której wchodzą: Airbus A319-100, A320-200, A321-200, A330-200, A340-300, Boeing 737-300, 737-700, 737-800, 747-400, 747-400M, 757-200, 767-300, 767-300ER, 777-200  
 Linie należą do sojuszu Star Alliance.
 
 ## China Airlines
@@ -60,7 +60,7 @@ British Airways należy do sojuszu lotniczego OneWorld.
 
 ## Qantas Airways
 
-To największy australijski przewoźnik lotniczy, założony w 1920 roku. Nazwa linii to akronim od  Queensland and Northern Territory Aerial Services.  Główna baza Qantas znajduje się w Sydney przy międzynarodowym porcie lotniczym Port lotniczy Sydney-Kingsford Smith.  
+To największy australijski przewoźnik lotniczy, założony w 1920 roku. Nazwa linii to akronim od  Queensland and Northern Territory Aerial Services.  Główna baza Qantas znajduje się w Sydney przy międzynarodowym porcie lotniczym Port lotniczy Sydney-Kingsford Smith.  
 Do Australii przewoźnik oferuje przelot przez Londyn lub Frankfurt oraz Singapur (bez konieczności wysiadania z samolotu)
 
 Większość tych linii oferuje połączenia praktycznie ze wszystkich lotnisk krajowych w Polsce w porozumieniu z PLL LOT lub Lufthansą, wyloty są możliwe m.in. z: Warszawa, Poznań, Gdańsk, Katowice, Kraków, Wrocław, Rzeszów.

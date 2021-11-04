@@ -14,6 +14,6 @@ Z racji na to, że żadne z nas zawodowo nie zajmuje się publikacjami, na pewno
 
 > Redakcja serwisu w żaden sposób nie odpowiada za poprawność i aktualność informacji w nim zawartych. Wszystkie informacje powinny zostać zweryfikowane na własną rękę w odpowiednich instytucjach i urzędach.
 
-Jeżeli chciałbyś dołączyć do naszej skromnej redakcji, lub masz informacje którymi chciałbym się podzielić &#8211; zapraszamy. Napisz do nas e-mail na adres **kontakt małpa australia.com.pl**
+Jeżeli chciałbyś dołączyć do naszej skromnej redakcji, lub masz informacje którymi chciałbym się podzielić &#8211; zapraszamy. Napisz do nas e-mail na adres **kontakt małpa australia.com.pl**
 
 Aktualny skład redakcji nie ma nic wspólnego z poprzednią redakcją. Nie mamy też kontaktu, ani nie pośredniczymy w kontaktach z osobami poprzednio prowadzącymi serwis.

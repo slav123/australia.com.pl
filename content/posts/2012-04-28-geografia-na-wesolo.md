@@ -19,7 +19,7 @@ Kilka zabawnych faktów na temat geografii
 * ludzi z Queensland nazywa się &#8222;zginaczami bananów&#8221; (banana benders), a gości z zachodniej Australii &#8211; sandgropers,
 * Tasmania ma najczystsze powietrze na świecie,
 * wielka Rafa Koralowa ma własną pocztę, możesz wysłać list z pieczątką oznaczoną jako Wielka Rafa Koralowa,
-* Australijskie Alpy &#8211; albo Śnieżne Góry są znane  z tego, że opady śniegu są większe niż w Szwajcarii,
+* Australijskie Alpy &#8211; albo Śnieżne Góry są znane  z tego, że opady śniegu są większe niż w Szwajcarii,
 * Melbourne ma drugą na świecie populację greków &#8211; zaraz po Atenach,
 
 <!--more-->
@@ -27,7 +27,7 @@ Kilka zabawnych faktów na temat geografii
   Mniej geograficznie, ale też ciekawie:
 
  * Na pustyni &#8211; przy idealnych warunkach jesteś w stanie dostrzec 5,780 &#8211; nieuzbrojonym okiem,
- * Dach słynnej Opery waży ponad 161 000 ton,
+ * Dach słynnej Opery waży ponad 161 000 ton,
  * Wielka Rafa Koralowa posiada największą organiczną konstrukcję na ziemi,
  * Termity budują najwyższe &#8211; poza ludźmi &#8211; konstrukcje na ziemi,
    

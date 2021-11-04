@@ -15,7 +15,7 @@ Zbiór kilku ciekawostek na temat zwierząt w Australii
 
 * istnieje ponad 1500 gatunków pająków w Australii,
 * jeżeli interesujesz się statystykami &#8211; to wiesz, że statycznie w ciągu roku połykasz 3 pająki,
-* w Australii żyje ponad  6000 gatunków much, 4000 mrówek i około 350 gatunków termitów,
+* w Australii żyje ponad  6000 gatunków much, 4000 mrówek i około 350 gatunków termitów,
 * idąc dalej tropem termitów &#8211; ich masa na całym świecie jest 10x większa od masy ludzi,
 
 <!--more-->

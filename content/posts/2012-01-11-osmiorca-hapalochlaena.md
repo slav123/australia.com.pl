@@ -19,4 +19,4 @@ Pomimo swojego niewielkiego rozmiaru (12-20cm) są zabójczo niebezpieczne dla l
 
 <!--more-->
 
-Charakteryzują się pięknymi kolorami &#8211; niebiesko czarnymi mackami  i żółtawą skórą. Odżywiają się małymi krabami, krewetkami oraz innymi zwierzętami. Atakują dosyć skutecznie &#8211; paraliżując ofiarę, a następnie powoli wysysają zawartośc skorupki.
+Charakteryzują się pięknymi kolorami &#8211; niebiesko czarnymi mackami  i żółtawą skórą. Odżywiają się małymi krabami, krewetkami oraz innymi zwierzętami. Atakują dosyć skutecznie &#8211; paraliżując ofiarę, a następnie powoli wysysają zawartośc skorupki.

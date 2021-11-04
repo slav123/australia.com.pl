@@ -16,6 +16,6 @@ tags:
 ---
 Najbardziej jadowity wąż Australii to Taipan. Jest znany również jako najbardziej jadowity wąż świata. Posiada piękny brązowy kolor, można go znaleźć w polach cukrowych polującego na szczury.
 
-Zwykle występuje na dalekiej północy Australii w Queensland oraz Północnym Terytorium. Rozmiarami nie przekracza 2m i waży niewiele ponad 3kg.
+Zwykle występuje na dalekiej północy Australii w Queensland oraz Północnym Terytorium. Rozmiarami nie przekracza 2m i waży niewiele ponad 3kg.
 
 &nbsp;

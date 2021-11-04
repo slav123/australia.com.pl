@@ -24,7 +24,7 @@ Tych, którzy chcą widzieć więcej, odsyłam na oficjalną stronę Pianisty :
 
 [http://www.davidhelfgott.com/][1]
 
-Ten wybitny australijski muzyk, po pierwszym sukcesie i jednocześnie poważnym załamaniu nerwowym w wieku dwudziestukilku lat, zniknął na długie kolejne, tułając się po zakładach psychiatrycznych i domach opieki, praktycznie nie utrzymując z otaczającą go rzeczywistością pełnego kontaktu.
+Ten wybitny australijski muzyk, po pierwszym sukcesie i jednocześnie poważnym załamaniu nerwowym w wieku dwudziestukilku lat, zniknął na długie kolejne, tułając się po zakładach psychiatrycznych i domach opieki, praktycznie nie utrzymując z otaczającą go rzeczywistością pełnego kontaktu.
 
 Publicznie na nowo &#8222;odkryty&#8221; pojawił się juz w bardzo dojrzałym wieku.
 

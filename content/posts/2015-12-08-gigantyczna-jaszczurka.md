@@ -16,7 +16,7 @@ tags:
   - fauna
 
 ---
-Australia jest dosyć egzotycznym miejscem i pojawianie się dużych zwierząt w domostwach nie stanowi wielkiego zaskoczenia. Nie mniej jednak &#8211; ten przykład może być lekko ekstremalny.
+Australia jest dosyć egzotycznym miejscem i pojawianie się dużych zwierząt w domostwach nie stanowi wielkiego zaskoczenia. Nie mniej jednak &#8211; ten przykład może być lekko ekstremalny.
 
 Niejaki Eric Holland z Thurgoona w New South Wales relaksował się na tarasie, kiedy spostrzegł 1.5-metrową jaszczurkę wiszącą na boku jego domu. Udało mu się ustrzelić fotkę.
 

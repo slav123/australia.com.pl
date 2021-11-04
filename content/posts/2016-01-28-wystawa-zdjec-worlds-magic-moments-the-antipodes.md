@@ -31,11 +31,11 @@ Australia &#8211; z lotu ptaka, a właściwie z okien samolotu to olbrzymia czer
 
 ![](/images/2016/01/Urulu.jpg)
 
-Wyspa &#8211; kontynent większy od Europy i większy od Stanów Zjednoczonych Ameryki Północnej (nie licząc Alaski), gdzie zatrzymał się czas, gdzie można zobaczyć  i wręcz dotknąć  historii naszego globu, gdzie formy geologiczne sprzed setek milionów lat nie są niczym niezwykłym, gdzie żyją zwierzęta niespotykane nigdzie indziej.
+Wyspa &#8211; kontynent większy od Europy i większy od Stanów Zjednoczonych Ameryki Północnej (nie licząc Alaski), gdzie zatrzymał się czas, gdzie można zobaczyć  i wręcz dotknąć  historii naszego globu, gdzie formy geologiczne sprzed setek milionów lat nie są niczym niezwykłym, gdzie żyją zwierzęta niespotykane nigdzie indziej.
 
-Kraj pełen miejsc powstałych wskutek wybuchów dziesiątków wulkanów, miejsc  z olbrzymią ilością zadziwiających minerałów, skał i monolitów.
+Kraj pełen miejsc powstałych wskutek wybuchów dziesiątków wulkanów, miejsc  z olbrzymią ilością zadziwiających minerałów, skał i monolitów.
 
-Urocze krajobrazy  i mieszkający tam ludzie, radośni, uśmiechnięci, pełni pozytywnej słonecznej energii, czynią ten kontynent miejscem niezwykłym.
+Urocze krajobrazy  i mieszkający tam ludzie, radośni, uśmiechnięci, pełni pozytywnej słonecznej energii, czynią ten kontynent miejscem niezwykłym.
 
 Tasmania &#8211; bajeczna wyspa, gdzie czas płynie inaczej, jakby wolniej, tak daleko od naszego zgiełku i pośpiechu, a blisko natury i otwartości na niezmierną urodę dzikiej i wolnej przestrzeni…
 
@@ -65,7 +65,7 @@ poczujcie…,
 
 radujcie się…
 
-Magicznymi Momentami  Świata!
+Magicznymi Momentami  Świata!
 
 **Jarosław Michał Sobczak** &#8211; przedsiębiorca,
 
@@ -88,7 +88,7 @@ I dzielę się wrażeniami…,
 a powstałe w ten sposób fotografie będą wspierały działania charytatywne.
 *Mark Twain*
 
-**ANDEL’S ART **
+**ANDEL’S ART **
 
 ANDEL’S ART to projekt, na który składają się autorskie wystawy sztuki współczesnej artystów, których prace posiadają wysoką wartość artystyczną i intelektualną oraz wpisują się w konwencję hotelu andel’s jako miejsca, w którym sztuka i architektura odgrywają szczególną rolę. Program ANDEL’S ART rozpoczął się 5 lat temu w hotelu andel’s w Łodzi a w tej chwili obejmuje już trzy z czterech hoteli sieci andel’s: Łódz, Kraków i Berlin. Wystawy odbywają się w ramach trzech cykli: wystawy zbiorowe w postaci kuratorskiego cyklu ANDEL’S QUARTER oraz wystawy indywidualne:
 

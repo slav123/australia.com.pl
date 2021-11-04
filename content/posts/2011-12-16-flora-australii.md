@@ -11,13 +11,13 @@ categories:
   - Ogólnie
 
 ---
-&#8222;Australia stanowi osobne państwo roślinne (Australis) o swoistej florze, z dużą liczbą endemitów (np. 750 gat. eukaliptusów i 450 gat. akacji); w zbiorowiskach roślinnych przeważają formacje charakterystyczne dla klimatów suchych i gorących. Wnętrze kontynentu zajmują [pustynie][1] piaszczyste (bez roślinności) oraz [półpustynie][2] ze słonoroślami i kolczastymi krzewinkami (karłowate akacje, eukaliptusy, kazuaryny, łobody i in.) tworzące tzw. [skrub][3].
+&#8222;Australia stanowi osobne państwo roślinne (Australis) o swoistej florze, z dużą liczbą endemitów (np. 750 gat. eukaliptusów i 450 gat. akacji); w zbiorowiskach roślinnych przeważają formacje charakterystyczne dla klimatów suchych i gorących. Wnętrze kontynentu zajmują [pustynie][1] piaszczyste (bez roślinności) oraz [półpustynie][2] ze słonoroślami i kolczastymi krzewinkami (karłowate akacje, eukaliptusy, kazuaryny, łobody i in.) tworzące tzw. [skrub][3].
 
 <!--more-->
 
-Pustynie i półpustynie graniczą, zwłaszcza od północy, ze stepami twardolistnych traw. Na północy stepy przechodzą w sawanny, a te — w lasy monsunowe; wybrzeża pd.-wsch. i pd.-zach. porastają lasy wawrzynolistne i zimozielone zarośla. Odrębna jest roślinność wsch. części Australii: na obszarach o dużych opadach (gł. płw. Jork) rosną wiecznie zielone [lasy podrównikowe][4] ([figowce][5], [palmy][6], [pandanusy][7], [liany][8] i [epifity][9]), a na wybrzeżach pn. — namorzyny; dalej na p.d., w górach, występują wiecznie zielone lasy araukarii i[notofagusów][10] (bukanów), natomiast na najwyższych wzniesieniach Alp Australijskich — roślinność alpejska. Plagą gospodarczą Australii są zawleczone tu i mnożące się[opuncje][11].&#8221;
+Pustynie i półpustynie graniczą, zwłaszcza od północy, ze stepami twardolistnych traw. Na północy stepy przechodzą w sawanny, a te — w lasy monsunowe; wybrzeża pd.-wsch. i pd.-zach. porastają lasy wawrzynolistne i zimozielone zarośla. Odrębna jest roślinność wsch. części Australii: na obszarach o dużych opadach (gł. płw. Jork) rosną wiecznie zielone [lasy podrównikowe][4] ([figowce][5], [palmy][6], [pandanusy][7], [liany][8] i [epifity][9]), a na wybrzeżach pn. — namorzyny; dalej na p.d., w górach, występują wiecznie zielone lasy araukarii i[notofagusów][10] (bukanów), natomiast na najwyższych wzniesieniach Alp Australijskich — roślinność alpejska. Plagą gospodarczą Australii są zawleczone tu i mnożące się[opuncje][11].&#8221;
 
-za Wikipedią :  [http://pl.wikipedia.org/wiki/Flora_Australii](http://pl.wikipedia.org/wiki/Flora_Australii)
+źródło [Wikipedia](http://pl.wikipedia.org/wiki/Flora_Australii)
 
  [1]: http://pl.wikipedia.org/wiki/Pustynie "Pustynie"
  [2]: http://pl.wikipedia.org/wiki/P%C3%B3%C5%82pustynie "Półpustynie"

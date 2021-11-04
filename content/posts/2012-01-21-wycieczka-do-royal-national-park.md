@@ -14,7 +14,7 @@ tags:
 ---
 Ustanowiony w 1879, [Królewski Park Narodowy](http://www.environment.nsw.gov.au/nationalparks/parkhome.aspx?id=N0030) jest drugim najstarszym na świecie parkiem narodowym &#8211; zaraz za parkiem Yellowstone w USA.
 
-Oddalony zaledwie 32 km od Sydney. W lipcu 2006 został dodany do listy [National Heritage List][1]. Skromna galeria prezentująca kilka gatunków ptaków, które można tam spotkać.
+Oddalony zaledwie 32 km od Sydney. W lipcu 2006 został dodany do listy [National Heritage List][1]. Skromna galeria prezentująca kilka gatunków ptaków, które można tam spotkać.
 
 Autorem zdjęć jest nasz znajomy: [Petr Hudecek](https://picasaweb.google.com/101651862916752085512).
 

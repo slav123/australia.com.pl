@@ -29,6 +29,6 @@ Jedyne, co im wychodzi, to zwiastuny kinowe:
 
 http://www.youtube.com/watch?v=vvUnn3GyxdU
 
-to ten opisywany (między innymi) przed chwilą film- to doskonały patent jak klienta zrobić w balona. I tak się człowiek właśnie z australijskim kinem pozwala nabić w butelkę i film próbuje obejrzeć. Ale widz już wie, że ma to zrobić w domu (oczywiście mówimy tu o legalnej płycie DVD), a nie wydawać jakieś ciężkie pieniądze na bilet do kina. Jak to mówią: &#8222;Wrogowi by nie życzył&#8221;. &#8211; I ja osobiście nie życzę. Autystyk może by się nie znudził&#8230;
+to ten opisywany (między innymi) przed chwilą film- to doskonały patent jak klienta zrobić w balona. I tak się człowiek właśnie z australijskim kinem pozwala nabić w butelkę i film próbuje obejrzeć. Ale widz już wie, że ma to zrobić w domu (oczywiście mówimy tu o legalnej płycie DVD), a nie wydawać jakieś ciężkie pieniądze na bilet do kina. Jak to mówią: &#8222;Wrogowi by nie życzył&#8221;. &#8211; I ja osobiście nie życzę. Autystyk może by się nie znudził&#8230;
 
 &nbsp;

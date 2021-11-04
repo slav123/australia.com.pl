@@ -20,8 +20,8 @@ Kilka ciekawych faktów na temat Australii:
 
 <!--more-->
 
-  * motto miasta Melburne to _Vires acquirit eundo_ (rośniemy w siłę),
-  * jedno z publicznych świąt w Melbourne to dzień wyścigów konnych [The Melbourne Cup][1],
+  * motto miasta Melburne to _Vires acquirit eundo_ (rośniemy w siłę),
+  * jedno z publicznych świąt w Melbourne to dzień wyścigów konnych [The Melbourne Cup][1],
   * Melbourne ma jeden z największych na świecie systemów komunikacji tramwajowej,
   * pierwsza Australijska stacja telewizyjna to Kanał 9 &#8211; uruchomiony w Sydney w 1956,
   * najwięcej medali na igrzyskach Australia zdobyła w 2000 roku, na olimpiadzie w Sydney &#8211; 58,

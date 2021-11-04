@@ -16,7 +16,7 @@ tags:
 ---
 &#8211; Coś pozytywnego o Australii i o tym, co udało jej się wypuścić z dużym sukcesem.
 
-To film z 1979 roku, w reżyserii Georga Millera z udziałem prawie nikomu wtedy nieznanego Mela Gibsona. Dziś to klasyk cyberpunkowego kina sf. Pierwszą część, mimo że wyoglądaną na wszystkie strony fani tego gatunku oglądać będą zawsze z tą samą sentymentalną przyjemnością. Trudno powiedzieć czemu. <!--more-->
+To film z 1979 roku, w reżyserii Georga Millera z udziałem prawie nikomu wtedy nieznanego Mela Gibsona. Dziś to klasyk cyberpunkowego kina sf. Pierwszą część, mimo że wyoglądaną na wszystkie strony fani tego gatunku oglądać będą zawsze z tą samą sentymentalną przyjemnością. Trudno powiedzieć czemu. <!--more-->
 
 W tym filmie większość rzeczy jest nie tak: począwszy od słabiutkiej z wyjątkiem Mela gry aktorskiej (tak przerysowanej i tandetnej jak mimika postaci z anime), poprzez taniutkie kostiumy (tylko Gibson miał wdzianko z prawdziwej skóry), na potwornie kiepskim scenariuszu skończywszy. Bo przecież tu nic się nie dzieje: przez połowę tego obrazu pokazuje się rodzinę policjanta Maxa, jego pracę i społeczeństwo ulegające z części na część coraz większej degrengoladzie. Brutalne i zdegenerowane gangi motocyklistów podróżujące po świecie, napadające, grabiące, zabijające i gwałcące wszystko co się rusza. W połowie filmu realia życia i otoczenia dopadają rodzinę Maxa i jego samego, co skutkuje śmiercią ukochanej i dziecka i bolesnej rekonwalescencji głównego bohatera w czymś co przypomina szpital. Potem Max dokonuje zemsty i rusza w kierunku zachodzącego słońca samotnie. Jak w westernie.
 

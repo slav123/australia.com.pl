@@ -66,7 +66,7 @@ W Australii zaczynasz mniej więcej w ten sposób:
 
 &#8211; Właśnie, właśnie.
 
-&#8211; Proszę poczekać, zadzowonię do kolegi na magazyn, czy coś ma &#8211; słuchawka, szybka akcja, wybieranie numeru. profeska &#8211; Abdul? (oho!) słuchaj, jak się masz? … &#8211; milczenie &#8211; pewnie odpowiedź- no ja też… &#8211; śmiech &#8211; słuchaj mam tu Panią, i jej sie popsuła lodówka… no właśnie… tak samo jak z telewizorami… mamy jakiś karton? …kolega pyta, jaka tą lodówka na wielkość? &#8211; zwraca się do mnie
+&#8211; Proszę poczekać, zadzowonię do kolegi na magazyn, czy coś ma &#8211; słuchawka, szybka akcja, wybieranie numeru. profeska &#8211; Abdul? (oho!) słuchaj, jak się masz? … &#8211; milczenie &#8211; pewnie odpowiedź- no ja też… &#8211; śmiech &#8211; słuchaj mam tu Panią, i jej sie popsuła lodówka… no właśnie… tak samo jak z telewizorami… mamy jakiś karton? …kolega pyta, jaka tą lodówka na wielkość? &#8211; zwraca się do mnie
 
 &#8211; Podblatowa &#8211; odpowiadam. Pani kręci głową… &#8211; taką &#8211; wyciągam rękę jak nieśmiały Hitler, &#8211; nie działa. Blat do 95 cm. &#8211; Mówię &#8211; 90 cm wysoka. &#8211; Proszę. Konkretna odpowiedź, konkretne działanie. &#8211; masz?… &#8211; kolega sprawdzi. Proszę czekać &#8211; uśmiech
 
@@ -120,7 +120,7 @@ Po lodówce zostanie znowu tylko szara naga jama. Oczywiście nie wiadomo na jak
 
 Lodówka zapakowana.
 
-Lodówka waży 30 kilo+ karton i styropian jakiś, który rownież użyłam, żeby ją zabezpieczyć, prawdpodobnie zupełnie niepotrzebnie, bo i tak jej nikt naprawiał nie będzie&#8230;.. łacznie, jakieś nie wiem, 33 kilo? &#8211; Załóżmy że tak. Zatem wielkość dość daleka od wartosci 27 kilo… (w spececyfikacji przesyłki dla firmy kurierskiej opisanej przez pracownika sklepu internetowego)
+Lodówka waży 30 kilo+ karton i styropian jakiś, który rownież użyłam, żeby ją zabezpieczyć, prawdpodobnie zupełnie niepotrzebnie, bo i tak jej nikt naprawiał nie będzie&#8230;.. łacznie, jakieś nie wiem, 33 kilo? &#8211; Załóżmy że tak. Zatem wielkość dość daleka od wartosci 27 kilo… (w spececyfikacji przesyłki dla firmy kurierskiej opisanej przez pracownika sklepu internetowego)
 
 Będą kłopoty?
 
@@ -188,7 +188,7 @@ Jeszcze bardziej spocony kurier z wózkiem. Patrzę zdziwiona.
 
 &#8211; Rozumiem &#8211; odpowiadam &#8211; ja też się zdenerwowałam, bo co to jest, żeby lodówka po tygodniu sie popsuła?
 
-&#8211; Po tygodniu powiada Pani? &#8211; westchnięcie pełne współczucie &#8211; A mój szwagier handluje użyanymi lodówkami. Szkoda że nie wiedziałem to bym Pani podeslał kontakt do niego . W zeszłym tygodniu miał piękną lodówkę, 2 metry wysokości i czterodrzwiowąś. Piękną.
+&#8211; Po tygodniu powiada Pani? &#8211; westchnięcie pełne współczucie &#8211; A mój szwagier handluje użyanymi lodówkami. Szkoda że nie wiedziałem to bym Pani podeslał kontakt do niego . W zeszłym tygodniu miał piękną lodówkę, 2 metry wysokości i czterodrzwiowąś. Piękną.
 
 &#8211; Panie, po ch&#8230; mi lodówka, która zajmie mi połowę mieszkania?
 

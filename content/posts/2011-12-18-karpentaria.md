@@ -14,7 +14,7 @@ tags:
   - książki
 
 ---
-_Karpentaria_ to współczesna opowieść o australijskiej rzeczywistości rozgrywająca się w fikcyjnym miasteczku Desperence u wybrzeży zatoki Karpentaria.
+_Karpentaria_ to współczesna opowieść o australijskiej rzeczywistości rozgrywająca się w fikcyjnym miasteczku Desperence u wybrzeży zatoki Karpentaria.
 
 Na ludność w Desperance składają się cztery społeczności współżyjące, ale i rywalizujące ze sobą o wpływy i znaczenie.
 

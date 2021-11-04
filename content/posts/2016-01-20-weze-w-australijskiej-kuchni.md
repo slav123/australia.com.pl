@@ -19,7 +19,7 @@ Sprawdzałeś ostatnio, co masz pod lodówką ? W Australii nigdy nie możesz by
 
 Poniższy przykład jest dosyć dramatyczny: w Adelaide w dzielnicy Moana, miejsce pod lodówką zamieszkiwał śmiertelny wąż brunatny [Pseudonaja textilis](https://en.wikipedia.org/wiki/Eastern_brown_snake).
 
-Łapacz węży &#8211; Rolly Burrell odnalazł i usunął samicę węża w niedzielne popołudnie i nagrał całe wydarzenie.  
+Łapacz węży &#8211; Rolly Burrell odnalazł i usunął samicę węża w niedzielne popołudnie i nagrał całe wydarzenie.  
 <!--more-->
 
 Węże lubią chłodne i ciemne miejsca w domostwach, a wilgoć pod lodówką sprawia, że jest to idealne miejsce na złożenie jajek.

@@ -11,7 +11,7 @@ categories:
   - Porady praktyczne
 
 ---
-Wbrew pozorom nie jest to taka prosta sprawa. O tyle o ile znalezienie hotelu, czy miejsca na krótki pobyt jest bardzo prostym zadaniem &#8211; oczywiście trzeba liczyć się z kosztami rzędu od minimum $50 dolarów za noc, o tyle na dłuższy pobyt warto pomyśleć o jakimś tańszym zakwaterowaniu. Jakie mamy opcje &#8211; oczywiście garść tanich hoteli, albo bardzo popularne [Share Accommodation](http://goo.gl/tQdHk) &#8211; czyli dzielone lokalizacje w postaci mieszkań i pokojów gdzie można wynająć pokój na krótki okres.
+Wbrew pozorom nie jest to taka prosta sprawa. O tyle o ile znalezienie hotelu, czy miejsca na krótki pobyt jest bardzo prostym zadaniem &#8211; oczywiście trzeba liczyć się z kosztami rzędu od minimum $50 dolarów za noc, o tyle na dłuższy pobyt warto pomyśleć o jakimś tańszym zakwaterowaniu. Jakie mamy opcje &#8211; oczywiście garść tanich hoteli, albo bardzo popularne [Share Accommodation](http://goo.gl/tQdHk) &#8211; czyli dzielone lokalizacje w postaci mieszkań i pokojów gdzie można wynająć pokój na krótki okres.
 
 <!--more-->
 

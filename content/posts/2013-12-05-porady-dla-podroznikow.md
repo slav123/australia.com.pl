@@ -25,9 +25,9 @@ Drogi są całkiem niezłe, chociaż pasy ruchu trochę węższe niż np w Polsc
 
   <!--more-->
 
-Odsyłam do  [Wikipedi](http://en.wikipedia.org/wiki/List_of_airports_in_Australia#Australian_Capital_Territory_.28ACT.29). Bilety lotnicze wcale nie są takie drogie. Szczególnie jak się trafi promocja. Latanie za $50, czy ostatecznie po normalnych cenach nie stanowi wielkiego obciążenia dla kieszeni.
+Odsyłam do  [Wikipedi](http://en.wikipedia.org/wiki/List_of_airports_in_Australia#Australian_Capital_Territory_.28ACT.29). Bilety lotnicze wcale nie są takie drogie. Szczególnie jak się trafi promocja. Latanie za $50, czy ostatecznie po normalnych cenach nie stanowi wielkiego obciążenia dla kieszeni.
 
-Wypożyczalnie samochodów mają się tutaj świetnie. Bo są tanie. Jednak statystycznie &#8211; kompletnie niepopularne na dalsze odległości, chyba że ktoś rekreacyjnie sobie w przynajmniej kilka tygodni chce objechać całe wybrzeże… Raczej mało kto wypożyczy auto, żeby pojechać z Sydney do Canbery &#8211; już częściej zdecyduje się na pociąg lub samolot.
+Wypożyczalnie samochodów mają się tutaj świetnie. Bo są tanie. Jednak statystycznie &#8211; kompletnie niepopularne na dalsze odległości, chyba że ktoś rekreacyjnie sobie w przynajmniej kilka tygodni chce objechać całe wybrzeże… Raczej mało kto wypożyczy auto, żeby pojechać z Sydney do Canbery &#8211; już częściej zdecyduje się na pociąg lub samolot.
 
 Ale jak już się zdecyduje, to okazuje się, że na trasie nie musi się ścigać z TIRami &#8211; Chyba cały cięższy transport idzie koleją &#8211; bo tych smoków się nie uświadcza.
 
@@ -40,7 +40,7 @@ To nie żart, chociaż mnie osobiście bawi. W zeszłym roku w wiadomościach m�
 
 Jednego znaleziono odwodnionego gdzieś na bezludziu, drugiego też, ale temu ostatniemu to, w jakim był stanie, wtedy kiedy go znaleźli, było doskonale obojętne.
 
-Takie rzeczy człowiekowi w Europie nie mają szansy się przydarzyć a tu &#8211; a i owszem.
+Takie rzeczy człowiekowi w Europie nie mają szansy się przydarzyć a tu &#8211; a i owszem.
 
 Takie i jeszcze inne, równie wartościowe, jeśli chodzi o ubogacenie wspomnień.
 
