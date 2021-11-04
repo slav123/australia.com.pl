@@ -45,18 +45,18 @@ Podążając za encyklopedycznymi danymi:
   * Numer kierunkowy &#8211; +61
 
 
-##Herb państwowy
+## Herb państwowy
 Nadał Australii w 1912 roku król Jerzy V. Sześciopolową tarczę z herbami stanów, otoczonymi bordiurą gronostajową podtrzymują kangur i struś emu. Nad nią, na niebiesko-złotym zawoju, umieszczona jest siedmioramienna złota gwiazda. Za tarczą i trzymaczami umieszczone są kwitnące gałęzie australijskiej akacji. Pod tarczą wstęga z napisem nazwy państwa.
 
 > Ciekawostka: podobno obydwa zwierzęta symbolizujące Australię &#8211; struś i emu należą do nielicznej grupy zwierząt niepotrafiących chodzić do tyłu, dlatego widnieją jako metafora Australii – “nigdy do tyłu, zawsze do przodu” &#8211; “Advance Australia” - do niedawna dewiza kraju.
 
-##Hymn państwowy
+## Hymn państwowy
 Brytyjski hymn królewski _God Save the Queen_ pozostał hymnem Australii aż do roku 1984 r., kiedy to hymnem narodowym została patriotyczna pieśń _Advance Australia Fair _(_Naprzód, Piękna Australio_)_. S_łowa i muzykę napisał Peter Dodds McCormick. Po raz pierwszy pieśń tę wykonano w dniu św. Andrzeja w 1878 roku w Sydney, więc do 1984 roku w Australii obowiązywały dwa hymny &#8211; królewski i narodowy.
 
-##Gospodarka
+## Gospodarka
 Australia to kraj wysoko rozwinięty. Głównymi źródłami dochodu jest rolnictwo I przemysł wydobywczy. Kraj ten znajduje się również w czołówce, jeśli chodzi o produkcję energii elektrycznej. Ciekawostką jest fakt, że Australia nie posiada żadnej elektrowni atomowej i ponieważ w mediach nie toczy się na ten temat żadna dyskusja, nie jest tym zainteresowana.
 
-##Ustrój polityczny
+## Ustrój polityczny
 Australia jest członkiem [brytyjskiej Wspólnoty Narodów][13], zachowującym w aktach prawnych nazwę [dominium][21]. Ustrojem politycznym jest formalnie federacyjna [monarchia konstytucyjna][22]z dwuizbowym parlamentem. [Konstytucja][23] z [1900][24] (z późniejszymi zmianami); [głową państwa][25] jest [Królowa Australii][26] (obecnie [Elżbieta II][27]) reprezentowana przez [gubernatora][28] generalnego. Tytuł Królowej Australii został nadany panującemu monarsze brytyjskiemu w 1971 przez australijski parlament.
 
 Praktycznie głową państwa jest [gubernator generalny Australii][29] (obecnie [Quentin Bryce][30]), reprezentujący [królową Australii][26] [Elżbietę II][27]. Premierem Australii jest [Julia Gillard][20]. [Władzę ustawodawczą][31] sprawuje dwuizbowy [parlament][32], wyłaniany w wyborach powszechnych: [Senat][33] o [kadencji][34] sześcioletniej, liczący 76 [senatorów][35]: po 12 przedstawicieli każdego [stanu][36] i po 2 przedstawicieli [Terytorium Północnego][37] i [Australijskiego Terytorium Stołecznego][38] (co 3 lata połowa składu jest odnawiana) oraz [Izba Reprezentantów][39] o kadencji trzyletniej, licząca 150 deputowanych, wybieranych proporcjonalnie do liczby ludności; system wyborczy do Senatu jest mieszany.
@@ -65,7 +65,7 @@ Praktycznie głową państwa jest [gubernator generalny Australii][29] (obecnie 
 
 Prawa wyborcze (ograniczone cenzusami osiadłości) przysługują obywatelom, którzy ukończyli 18 lat.
 
-> Wybory w Australii są obowiązkowe dla wszystkich obywateli, kara za nieoddanie ważnego głosu wynosi 50$. Według przepisów wyborczych obywatel zobowiązany jest oddać ważny głos. Głosowanie jest tajne.
+> Wybory w Australii są obowiązkowe dla wszystkich obywateli, kara za nieoddanie ważnego głosu wynosi $50. Według przepisów wyborczych obywatel zobowiązany jest oddać ważny głos. Głosowanie jest tajne.
 
 Wymiar sprawiedliwości sprawują: [Federalny Sąd Najwyższy][43], Sąd Federalny (sprawy gosp. i bankructwa), Australijski Sąd Rodzinny oraz stanowe sądy najwyższe i sądy jednostek terytorialnych.
 
