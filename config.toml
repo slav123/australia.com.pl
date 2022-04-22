@@ -47,7 +47,7 @@ home = "left" # Configure layout for home page
 list = "left"  # Configure layout for list pages
 single = "left" # Configure layout for single pages
 # Enable widgets in given order
-widgets = ["search", "categories", "social"]
+widgets = ["search", "categories", "social", "ads"]
 # alternatively "ddg-search" can be used, to search via DuckDuckGo
 # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
