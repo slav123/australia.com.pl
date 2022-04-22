@@ -7,7 +7,7 @@ theme = 'mainroad'
 assetDir = "assets"
 comments = true
 disqusShortname = "australiapl" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "UA-629893-48" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-1TD2KN29QE" # Enable Google Analytics by entering your tracking id
 
 
 [permalinks]
